@@ -26,15 +26,15 @@ class ScrapeOpsProxyMiddleware:
             'Sops-Final-Url', def_val=response.url)
         return response.replace(
             url=real_url.decode(response.headers.encoding))
-
+    
 
     def _get_scrapeops_url(self, request):
         payload = {'api_key': self.scrapeops_api_key, 'url': request.url}
         if self._param_is_true(request, 'sops_render_js'):
             payload['render_js'] = True
-        if self._param_is_true(request, 'sops_residential'):
+        if self._param_is_true(request, 'sops_residential'): 
             payload['residential'] = True
-        if self._param_is_true(request, 'sops_keep_headers'):
+        if self._param_is_true(request, 'sops_keep_headers'): 
             payload['keep_headers'] = True
         if request.meta.get('sops_country') is not None:
             payload['country'] = request.meta.get('sops_country')
@@ -46,11 +46,11 @@ class ScrapeOpsProxyMiddleware:
         if self.scrapeops_api_key is None or self.scrapeops_api_key == '' or self.scrapeops_proxy_active == False:
             return False
         return True
-
+    
     def process_request(self, request, spider):
         if self._scrapeops_proxy_enabled is False or self.scrapeops_endpoint in request.url:
             return None
-
+        
         scrapeops_url = self._get_scrapeops_url(request)
         new_request = request.replace(
             cls=Request, url=scrapeops_url, meta=request.meta)

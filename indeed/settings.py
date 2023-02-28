@@ -1,29 +1,30 @@
-BOT_NAME = 'indeed.com_LM'
+
+BOT_NAME = 'indeed'
 
 SPIDER_MODULES = ['indeed.spiders']
 NEWSPIDER_MODULE = 'indeed.spiders'
+
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
 ## ScrapeOps API Key
-## Get Free API KEY here: https://scrapeops.io/app/register/main
-SCRAPEOPS_API_KEY = '*************************'
+SCRAPEOPS_API_KEY = '**********************' ## Get Free API KEY here: https://scrapeops.io/app/register/main
 
 ## Enable ScrapeOps Proxy
 SCRAPEOPS_PROXY_ENABLED = True
 
-# Add In The ScrapeOps Monitoring Extension
-EXTENSIONS = {
-'scrapeops_scrapy.extension.ScrapeOpsMonitor': 500,
-}
+# # Add In The ScrapeOps Monitoring Extension
+# EXTENSIONS = {
+# 'scrapeops_scrapy.extension.ScrapeOpsMonitor': 500,
+# }
 
 
 DOWNLOADER_MIDDLEWARES = {
 
-    ## ScrapeOps Monitor
-    'scrapeops_scrapy.middleware.retry.RetryMiddleware': 550,
-    'scrapy.downloadermiddlewares.retry.RetryMiddleware': None,
+    # ## ScrapeOps Monitor
+    # 'scrapeops_scrapy.middleware.retry.RetryMiddleware': 550,
+    # 'scrapy.downloadermiddlewares.retry.RetryMiddleware': None,
 
     ## Proxy Middleware
     'indeed.middlewares.ScrapeOpsProxyMiddleware': 725,
