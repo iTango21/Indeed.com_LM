@@ -1,0 +1,3687 @@
+{
+    "metaData": {
+        "isJpBundle": false,
+        "mosaicProviderJobCardsModel": {
+            "adSignature": "6851",
+            "appName": "jasx",
+            "applyHolisticStyle": true,
+            "bot": false,
+            "brandedAds": [],
+            "csrfToken": "TLphYINDvrm11PRQvo2dnZLl7XVY5kdR",
+            "encryptedQueryData": "RnZhMybXSk4M3QtTVGXWodEQHcG1VZx4xH2FNaEBalwszV8eWUVef9IYBz-MzUlWY0ngR9v-se_BoQTCzKZgl62L33lYCuOrmCEnEvQzYkc",
+            "experienceLevelFilterRefineBy": "",
+            "fccId": -1,
+            "hasResume": false,
+            "indeedApplyOnlyFilterUsed": false,
+            "ipCountry": "CO",
+            "isDesktop": true,
+            "isHighContrastIconShown": true,
+            "isIpadApp": false,
+            "isJobCardShelfApplied": true,
+            "isTablet": false,
+            "jobCardVariant": "DEFAULT",
+            "jobSeenLogParameters": {},
+            "linkTargetAttribute": "_blank",
+            "loggedIn": false,
+            "mobtk": "1gqcu2bfjis30800",
+            "mosaicNonJobContent": [],
+            "mustShowSponsoredLabel": false,
+            "myIndeedEnabled": true,
+            "myIndeedRegisterLink": "https://secure.indeed.com/account/register?co=US&hl=en_US&continue=http%3A%2F%2Fwww.indeed.com%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+            "noJsUrlOnly": false,
+            "overrideShelf": true,
+            "pageNumber": 1,
+            "passportLoginLink": "https://secure.indeed.com/account/login?co=US&hl=en_US&continue=http%3A%2F%2Fwww.indeed.com%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+            "prforceGroups": "",
+            "proctorContext": {
+                "accountId": -1,
+                "app": false,
+                "country": "US",
+                "ctkAge": 270,
+                "ctkDate": "20230228",
+                "hasRez": false,
+                "lang": "en",
+                "loggedIn": false,
+                "mtkAge": 270,
+                "platform": "",
+                "privileged": false,
+                "smartphone": false,
+                "stealthGroups": [],
+                "tablet": false,
+                "uaData": "{\"android\":false,\"androidApp\":false,\"androidEmployerApp\":false,\"androidJobSearchApp\":false,\"app\":false,\"bot\":false,\"browser\":\"UNKNOWN\",\"browserFamily\":\"UNKNOWN\",\"browserReleaseVersion\":{\"matchPrecision\":\"BUILD\",\"version\":7599863026155520},\"browserVersion\":{\"majorVersion\":\"27\",\"minorVersion\":\"9\",\"version\":\"27.9.4\"},\"chrome\":false,\"chromeForIOS\":false,\"currentJobseekerDeprecatedBrowser\":false,\"deviceType\":\"COMPUTER\",\"droidRezUploadDialog\":false,\"dumbPhone\":false,\"employerApp\":false,\"fileUploadCapable\":true,\"futureJobseekerDeprecatedBrowser\":false,\"geolocationCapable\":false,\"googleWebLight\":false,\"ios\":false,\"iosemployerApp\":false,\"iosjobSearchApp\":false,\"ipad\":false,\"ipadApp\":false,\"ipadJobSearchApp\":false,\"jobSearchApp\":false,\"mobileDevice\":false,\"operatingSystem\":\"WINDOWS\",\"os\":{\"family\":\"windows\",\"majorVersion\":-1,\"minorVersion\":-1,\"osFamily\":\"windows\",\"osVersion\":{\"matchPrecision\":\"BUILD\",\"version\":0},\"patchVersion\":-1,\"releaseVersion\":{\"matchPrecision\":\"BUILD\",\"version\":0},\"version\":\"\"},\"phone\":false,\"releaseVersion\":{\"matchPrecision\":\"BUILD\",\"version\":7599863026155520},\"safari\":false,\"safariForIOS\":false,\"smartPhone\":false,\"tablet\":false,\"uaVersion\":{\"matchPrecision\":\"BUILD\",\"version\":7599863026155520},\"userAgentDelegate\":{\"android\":false,\"bot\":false,\"browser\":\"UNKNOWN\",\"browserName\":\"PaleMoon\",\"browserReleaseVersion\":{\"matchPrecision\":\"BUILD\",\"version\":7599863026155520},\"browserVersion\":{\"majorVersion\":\"27\",\"minorVersion\":\"9\",\"version\":\"27.9.4\"},\"browserVersionString\":\"27.9.4\",\"chrome\":false,\"delegate\":{\"allFields\":{\"DeviceClass\":{\"confidence\":100,\"defaultValue\":\"Unknown\",\"isDefaultValue\":false,\"value\":\"Desktop\"},\"DeviceName\":{\"confidence\":100,\"defaultValue\":\"Unknown\",\"isDefaultValue\":false,\"value\":\"Desktop\"},\"DeviceBrand\":{\"confidence\":0,\"defaultValue\":\"Unknown\",\"isDefaultValue\":true,\"value\":\"Unknown\"},\"OperatingSystemClass\":{\"confidence\":100,\"defaultValue\":\"Unknown\",\"isDefaultValue\":false,\"value\":\"Desktop\"},\"OperatingSystemName\":{\"confidence\":100,\"defaultValue\":\"Unknown\",\"isDefaultValue\":false,\"value\":\"Windows NT\"},\"OperatingSystemVersion\":{\"confidence\":100,\"defaultValue\":\"??\",\"isDefaultValue\":false,\"value\":\"7\"},\"OperatingSystemVersionMajor\":{\"confidence\":100,\"defaultValue\":\"??\",\"isDefaultValue\":false,\"value\":\"7\"},\"AgentClass\":{\"confidence\":2011,\"defaultValue\":\"Unknown\",\"isDefaultValue\":false,\"value\":\"Browser\"},\"AgentName\":{\"confidence\":2011,\"defaultValue\":\"Unknown\",\"isDefaultValue\":false,\"value\":\"PaleMoon\"},\"AgentVersion\":{\"confidence\":2011,\"defaultValue\":\"??\",\"isDefaultValue\":false,\"value\":\"27.9.4\"},\"AgentInformationEmail\":{\"confidence\":-1,\"defaultValue\":\"Unknown\",\"isDefaultValue\":true,\"value\":\"Unknown\"},\"AgentInformationUrl\":{\"confidence\":-1,\"defaultValue\":\"Unknown\",\"isDefaultValue\":true,\"value\":\"Unknown\"},\"WebviewAppName\":{\"confidence\":-1,\"defaultValue\":\"Unknown\",\"isDefaultValue\":true,\"value\":\"Unknown\"},\"WebviewAppVersion\":{\"confidence\":-1,\"defaultValue\":\"??\",\"isDefaultValue\":true,\"value\":\"??\"},\"__SyntaxError__\":{\"confidence\":-1,\"defaultValue\":\"false\",\"isDefaultValue\":true,\"value\":\"false\"}},\"ambiguityCount\":0,\"availableFieldNamesSorted\":[\"DeviceClass\",\"DeviceName\",\"DeviceBrand\",\"OperatingSystemClass\",\"OperatingSystemName\",\"OperatingSystemVersion\",\"OperatingSystemVersionMajor\",\"AgentClass\",\"AgentName\",\"AgentVersion\",\"AgentInformationEmail\",\"AgentInformationUrl\",\"WebviewAppName\",\"WebviewAppVersion\",\"__SyntaxError__\"],\"cleanedAvailableFieldNamesSorted\":[\"DeviceClass\",\"DeviceName\",\"DeviceBrand\",\"OperatingSystemClass\",\"OperatingSystemName\",\"OperatingSystemVersion\",\"OperatingSystemVersionMajor\",\"AgentClass\",\"AgentName\",\"AgentVersion\"],\"hasAmbiguity\":false,\"hasSyntaxError\":false,\"headers\":{\"User-Agent\":\"Mozilla\\u002F5.0 (Windows NT 6.1; WOW64; rv:52.9) Gecko\\u002F20100101 Goanna\\u002F3.4 Firefox\\u002F52.9 PaleMoon\\u002F27.9.4\"},\"userAgentString\":\"Mozilla\\u002F5.0 (Windows NT 6.1; WOW64; rv:52.9) Gecko\\u002F20100101 Goanna\\u002F3.4 Firefox\\u002F52.9 PaleMoon\\u002F27.9.4\",\"userAgentStringField\":{\"confidence\":0,\"defaultValue\":\"Mozilla\\u002F5.0 (Windows NT 6.1; WOW64; rv:52.9) Gecko\\u002F20100101 Goanna\\u002F3.4 Firefox\\u002F52.9 PaleMoon\\u002F27.9.4\",\"isDefaultValue\":false,\"value\":\"Mozilla\\u002F5.0 (Windows NT 6.1; WOW64; rv:52.9) Gecko\\u002F20100101 Goanna\\u002F3.4 Firefox\\u002F52.9 PaleMoon\\u002F27.9.4\"}},\"deviceName\":\"Desktop\",\"deviceType\":\"COMPUTER\",\"deviceTypeString\":\"Desktop\",\"dumbPhone\":false,\"ios\":false,\"ipad\":false,\"mobileDevice\":false,\"operatingSystem\":\"WINDOWS\",\"operatingSystemFamily\":\"Windows NT\",\"operatingSystemVersion\":\"7\",\"os\":{\"family\":\"windows\",\"majorVersion\":-1,\"minorVersion\":-1,\"osFamily\":\"windows\",\"osVersion\":{\"matchPrecision\":\"BUILD\",\"version\":0},\"patchVersion\":-1,\"releaseVersion\":{\"matchPrecision\":\"BUILD\",\"version\":0},\"version\":\"\"},\"phone\":false,\"safari\":false,\"smartPhone\":false,\"tablet\":false,\"userAgentString\":\"Mozilla\\u002F5.0 (Windows NT 6.1; WOW64; rv:52.9) Gecko\\u002F20100101 Goanna\\u002F3.4 Firefox\\u002F52.9 PaleMoon\\u002F27.9.4\",\"webviewName\":\"Unknown\",\"webviewVersion\":{\"matchPrecision\":\"BUILD\",\"version\":0},\"windowsPhone\":false},\"userAgentString\":\"Mozilla\\u002F5.0 (Windows NT 6.1; WOW64; rv:52.9) Gecko\\u002F20100101 Goanna\\u002F3.4 Firefox\\u002F52.9 PaleMoon\\u002F27.9.4\",\"version\":{\"major\":27,\"minor\":9,\"version\":\"27.9.4\"},\"windowsPhone\":false}"
+            },
+            "proctorIdentifiers": {
+                "ACCOUNT": "-1",
+                "USER": "1gqcu2bfais30800"
+            },
+            "queryModifierResult": {
+                "originalQuery": "mechanical engineer",
+                "queryModifiers": [
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=engineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=mechanical%2Bengineering&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "mechanical engineering"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=design%2Bengineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "design engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=engineering&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "engineering"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=mechanical%2Bdesign%2Bengineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "mechanical design engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=manufacturing%2Bengineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "manufacturing engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=entry%2Blevel%2Bmechanical%2Bengineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "entry level mechanical engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=electrical%2Bengineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "electrical engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=aerospace%2Bengineer&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "aerospace engineer"
+                    },
+                    {
+                        "clickUrl": "http://www.indeed.com/jobs?q=mechanical%2Bengineer%2Bentry%2Blevel&l=&from=querymodifiers&qm=1&oq=mechanical%2Bengineer",
+                        "newQuery": "mechanical engineer entry level"
+                    }
+                ]
+            },
+            "radius": 25,
+            "refineByTypes": [],
+            "results": [
+                {
+                    "appliedOrGreater": false,
+                    "company": "Applied Materials",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/cc185f4010d4ee042ea66a34e1f0f476",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0c0b7ae535e36ad3cbf3f745971579fe"
+                    },
+                    "companyIdEncrypted": "6c6f37e2a6cb4c55",
+                    "companyOverviewLink": "/cmp/Applied-Materials",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.9,
+                    "companyReviewCount": 1023,
+                    "companyReviewLink": "/cmp/Applied-Materials/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Mechanical Engineer (Bachelor's Level) - Early in Career Opportunity!",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "a3b4996f9a7ce3f9",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 110000,
+                        "min": 80000,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 25655,
+                    "formattedLocation": "Santa Clara, CA",
+                    "formattedRelativeTime": "30+ days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Santa Clara",
+                    "jobLocationState": "CA",
+                    "jobTypes": [],
+                    "jobkey": "47f8fe576f4cb75d",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=47f8fe576f4cb75d&fccid=6c6f37e2a6cb4c55&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Applied Materials",
+                        "companyText": "Applied Materials jobs in Santa Clara, CA",
+                        "locationName": "Santa Clara",
+                        "qnaUrl": "/cmp/Applied-Materials/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=47f8fe576f4cb75d&jcid=6c6f37e2a6cb4c55",
+                        "resultNumber": 0,
+                        "salaryLocationName": "Santa Clara, CA",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/Santa-Clara--CA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=47f8fe576f4cb75d&from=serp-more",
+                        "shortLocationName": "Santa Clara, CA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Applied Materials jobs in Santa Clara, CA",
+                        "viewAllCompanyUrl": "/q-Applied-Materials-l-Santa-Clara,-CA-jobs.html",
+                        "viewAllLocationUrl": "/l-Santa-Clara,-CA-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Santa-Clara,-CA-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Santa Clara, CA",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=8d526b5a6cddadab&jcid=6c6f37e2a6cb4c55&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "47f8fe576f4cb75d",
+                        "link": "/rc/clk?jk=47f8fe576f4cb75d&fccid=6c6f37e2a6cb4c55&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": false,
+                    "normTitle": "Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1663131600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$80,000 - $110,000 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Implement concepts of moderate product issues and <b>mechanical</b> solutions.</li>\n <li>Troubleshoot a variety of <b>mechanical</b> problems of moderate difficultly.</li>\n</ul>",
+                    "sourceId": 5769,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mechanical Engineer (Bachelor's Level) - Early in Career Opportunity!",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Applied Materials",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=47f8fe576f4cb75d&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "SpaceX",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/886ab9765f4e060cebfed81c2689ea2e",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9c42dfacff0d3503c78e5cf9020b8025"
+                    },
+                    "companyIdEncrypted": "8bc01be85b97ce0d",
+                    "companyOverviewLink": "/cmp/Spacex",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.6,
+                    "companyReviewCount": 611,
+                    "companyReviewLink": "/cmp/Spacex/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Satellite Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "87d9b21bff25a7bf",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 115000,
+                        "min": 95000,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 66518,
+                    "formattedLocation": "Hawthorne, CA 90250",
+                    "formattedRelativeTime": "30+ days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Hawthorne",
+                    "jobLocationExtras": "North Hawthorne",
+                    "jobLocationPostal": "90250",
+                    "jobLocationState": "CA",
+                    "jobTypes": [],
+                    "jobkey": "02c5f99470bcec0a",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=02c5f99470bcec0a&fccid=8bc01be85b97ce0d&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {
+                        "station": "Crenshaw Bl + Jack Northrop Av~BTS-NTA",
+                        "stationTransitLines": [
+                            "1"
+                        ],
+                        "transitLines": [
+                            "1",
+                            "C Line"
+                        ]
+                    },
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "SpaceX",
+                        "companyText": "SpaceX jobs in Hawthorne, CA",
+                        "locationName": "Hawthorne",
+                        "qnaUrl": "/cmp/Spacex/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=02c5f99470bcec0a&jcid=8bc01be85b97ce0d",
+                        "resultNumber": 1,
+                        "salaryLocationName": "Hawthorne, CA",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/Hawthorne--CA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=02c5f99470bcec0a&from=serp-more",
+                        "shortLocationName": "Hawthorne, CA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "SpaceX jobs in Hawthorne, CA",
+                        "viewAllCompanyUrl": "/q-Spacex-l-Hawthorne,-CA-jobs.html",
+                        "viewAllLocationUrl": "/l-Hawthorne,-CA-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Hawthorne,-CA-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Hawthorne, CA",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=e92e5f0b4e1adbe1&jcid=8bc01be85b97ce0d&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "02c5f99470bcec0a",
+                        "link": "/rc/clk?jk=02c5f99470bcec0a&fccid=8bc01be85b97ce0d&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": false,
+                    "normTitle": "Satellite Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1665723600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$95,000 - $115,000 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Demonstrated understanding of structural analysis and failure modes of complex <b>mechanical</b> systems.</li>\n <li>You may also accrue 3 weeks of paid vacation &amp; will be…</li>\n</ul>",
+                    "sourceId": 16347,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Stock options",
+                                    "suid": "6XT6J"
+                                },
+                                {
+                                    "label": "Employee stock purchase plan",
+                                    "suid": "AV9NF"
+                                },
+                                {
+                                    "label": "Disability insurance",
+                                    "suid": "CFRGS"
+                                },
+                                {
+                                    "label": "Health insurance",
+                                    "suid": "EY33Q"
+                                },
+                                {
+                                    "label": "Dental insurance",
+                                    "suid": "FQJ2X"
+                                },
+                                {
+                                    "label": "401(k)",
+                                    "suid": "FVKX2"
+                                },
+                                {
+                                    "label": "Paid time off",
+                                    "suid": "HW4J4"
+                                },
+                                {
+                                    "label": "Parental leave",
+                                    "suid": "NPHPU"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                },
+                                {
+                                    "label": "Life insurance",
+                                    "suid": "Y2WS5"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Weekend availability",
+                                    "suid": "7SRRR"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Satellite Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "SpaceX",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=02c5f99470bcec0a&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Jacobs",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/6661ecd07efc8bbb2610f601442e0529",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ec70f6a24647e903df88f856f0a58bd8"
+                    },
+                    "companyIdEncrypted": "de56d7554bea5214",
+                    "companyOverviewLink": "/cmp/Jacobs",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.9,
+                    "companyReviewCount": 5211,
+                    "companyReviewLink": "/cmp/Jacobs/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Entry-Level Mechanical Engineer - Spring/ Summer 2023 Start",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "3a2d06a2d215dc39",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "estimatedSalary": {
+                        "formattedRange": "$63.9K - $80.9K a year",
+                        "max": 80896.68,
+                        "min": 63888.184,
+                        "type": "YEARLY"
+                    },
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 3465,
+                    "formattedLocation": "Portland, OR 97222",
+                    "formattedRelativeTime": "6 days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Portland",
+                    "jobLocationExtras": "Milwaukie Business-Industry",
+                    "jobLocationPostal": "97222",
+                    "jobLocationState": "OR",
+                    "jobTypes": [],
+                    "jobkey": "868c783bd32c5434",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=868c783bd32c5434&fccid=de56d7554bea5214&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Jacobs",
+                        "companyText": "Jacobs jobs in Portland, OR",
+                        "locationName": "Portland",
+                        "qnaUrl": "/cmp/Jacobs/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=868c783bd32c5434&jcid=de56d7554bea5214",
+                        "resultNumber": 2,
+                        "salaryLocationName": "Portland, OR",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/entry-level-mechanical-engineer/salaries/97222--OR",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=868c783bd32c5434&from=serp-more",
+                        "shortLocationName": "Portland, OR",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Jacobs jobs in Portland, OR",
+                        "viewAllCompanyUrl": "/q-Jacobs-l-Portland,-OR-jobs.html",
+                        "viewAllLocationUrl": "/l-Portland,-OR-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Entry-Level-Mechanical-Engineer-l-Portland,-OR-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Entry Level Mechanical Engineer jobs in Portland, OR",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=d9a059dfb34a8272&jcid=de56d7554bea5214&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "868c783bd32c5434",
+                        "link": "/rc/clk?jk=868c783bd32c5434&fccid=de56d7554bea5214&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Entry Level Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1676959200000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Some experience with and knowledge of building design and <b>mechanical</b> systems and equipment.</li>\n <li>You will be involved with the development of conceptual design and…</li>\n</ul>",
+                    "sourceId": 998,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Entry-Level Mechanical Engineer - Spring/ Summer 2023 Start",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Jacobs",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=868c783bd32c5434&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "WSP",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/5a79d693f21c3a2d4ce1461c2f6abe8d",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c00fb96a2a73001a7a4c8bc90a42005c"
+                    },
+                    "companyIdEncrypted": "125e77713a321cdc",
+                    "companyOverviewLink": "/cmp/Wsp",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.8,
+                    "companyReviewCount": 1306,
+                    "companyReviewLink": "/cmp/Wsp/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Early Career Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "1db5047f73fbc332",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 93000,
+                        "min": 53200,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 196959,
+                    "formattedLocation": "Phoenix, AZ 85034",
+                    "formattedRelativeTime": "5 days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Phoenix",
+                    "jobLocationExtras": "Central City",
+                    "jobLocationPostal": "85034",
+                    "jobLocationState": "AZ",
+                    "jobTypes": [],
+                    "jobkey": "f49a5b784ff1a70e",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=f49a5b784ff1a70e&fccid=125e77713a321cdc&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {
+                        "station": "Washington St & 18th St~BTS-NTA",
+                        "stationTransitLines": [
+                            "1"
+                        ],
+                        "transitLines": [
+                            "1"
+                        ]
+                    },
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "WSP",
+                        "companyText": "WSP jobs in Phoenix, AZ",
+                        "locationName": "Phoenix",
+                        "qnaUrl": "/cmp/Wsp/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=f49a5b784ff1a70e&jcid=125e77713a321cdc",
+                        "resultNumber": 3,
+                        "salaryLocationName": "Phoenix, AZ",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/Phoenix--AZ",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=f49a5b784ff1a70e&from=serp-more",
+                        "shortLocationName": "Phoenix, AZ",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "WSP jobs in Phoenix, AZ",
+                        "viewAllCompanyUrl": "/q-Wsp-l-Phoenix,-AZ-jobs.html",
+                        "viewAllLocationUrl": "/l-Phoenix,-AZ-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Phoenix,-AZ-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Phoenix, AZ",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=9da57a4887aafe18&jcid=125e77713a321cdc&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "f49a5b784ff1a70e",
+                        "link": "/rc/clk?jk=f49a5b784ff1a70e&fccid=125e77713a321cdc&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Early Career Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677132000000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "remoteWorkModel": {
+                        "inlineText": true,
+                        "type": "REMOTE_HYBRID"
+                    },
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$53,200 - $93,000 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Not only will you be designing building systems, you’ll interact with all internal <b>mechanical</b>, electrical, plumbing, fire protection, and telecommunication…</li>\n</ul>",
+                    "sourceId": 7409454,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Hybrid remote",
+                                    "suid": "PAXZC"
+                                }
+                            ],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Disability insurance",
+                                    "suid": "CFRGS"
+                                },
+                                {
+                                    "label": "Health insurance",
+                                    "suid": "EY33Q"
+                                },
+                                {
+                                    "label": "Dental insurance",
+                                    "suid": "FQJ2X"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Early Career Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "WSP",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=f49a5b784ff1a70e&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Aerojet Rocketdyne",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/a28e5763fb3534a682998958def36a4f",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ac23eb8451c47b9efe4e17d915f122e7"
+                    },
+                    "companyIdEncrypted": "901c5f86decc6c84",
+                    "companyOverviewLink": "/cmp/Aerojet-Rocketdyne",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.5,
+                    "companyReviewCount": 382,
+                    "companyReviewLink": "/cmp/Aerojet-Rocketdyne/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Associate Engineer (Mechanical Design)",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "53a6857f0ea28d4b",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 84500,
+                        "min": 60500,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 78728,
+                    "formattedLocation": "Canoga Park, CA 91304",
+                    "formattedRelativeTime": "Today",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Canoga Park",
+                    "jobLocationPostal": "91304",
+                    "jobLocationState": "CA",
+                    "jobTypes": [],
+                    "jobkey": "9ae9706874141f00",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=9ae9706874141f00&fccid=77950f54df1117ec&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {
+                        "station": "De Soto / Osborne~BTS-NTA",
+                        "stationTransitLines": [
+                            "1"
+                        ],
+                        "transitLines": [
+                            "1"
+                        ]
+                    },
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Aerojet Rocketdyne",
+                        "companyText": "Aerojet Rocketdyne jobs in Canoga Park, CA",
+                        "locationName": "Canoga Park",
+                        "qnaUrl": "/cmp/Aerojet-Rocketdyne/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=9ae9706874141f00&jcid=901c5f86decc6c84",
+                        "resultNumber": 4,
+                        "salaryLocationName": "Canoga Park, CA",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-designer/salaries/91304--CA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=9ae9706874141f00&from=serp-more",
+                        "shortLocationName": "Canoga Park, CA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Aerojet Rocketdyne jobs in Canoga Park, CA",
+                        "viewAllCompanyUrl": "/q-Aerojet-Rocketdyne-l-Canoga-Park,-CA-jobs.html",
+                        "viewAllLocationUrl": "/l-Canoga-Park,-CA-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Designer-l-Canoga-Park,-CA-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Designer jobs in Canoga Park, CA",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=d2b863db1877a94a&jcid=901c5f86decc6c84&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "9ae9706874141f00",
+                        "link": "/rc/clk?jk=9ae9706874141f00&fccid=77950f54df1117ec&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Associate Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677477600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "remoteWorkModel": {
+                        "inlineText": true,
+                        "type": "REMOTE_HYBRID"
+                    },
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$60,500 - $84,500 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>The <b>mechanical</b> engineering responsibilities will concentrate on the design of liquid propulsion thrusters and system level integration.</li>\n</ul>",
+                    "sourceId": 594804,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Hybrid remote",
+                                    "suid": "PAXZC"
+                                }
+                            ],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Health savings account",
+                                    "suid": "7KV6C"
+                                },
+                                {
+                                    "label": "Health insurance",
+                                    "suid": "EY33Q"
+                                },
+                                {
+                                    "label": "Dental insurance",
+                                    "suid": "FQJ2X"
+                                },
+                                {
+                                    "label": "401(k)",
+                                    "suid": "FVKX2"
+                                },
+                                {
+                                    "label": "Tuition reimbursement",
+                                    "suid": "HJUWZ"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                },
+                                {
+                                    "label": "401(k) matching",
+                                    "suid": "SENX8"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Weekend availability",
+                                    "suid": "7SRRR"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Associate Engineer (Mechanical Design)",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Aerojet Rocketdyne",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=9ae9706874141f00&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Westinghouse Electric Company",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/a6ab1a563d107079086a9b963e59769e",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/68c46ded8628b89d0e932a1de4ab7784"
+                    },
+                    "companyIdEncrypted": "5b7e1a0cce9e724f",
+                    "companyOverviewLink": "/cmp/Westinghouse-Electric-Company,-LLC",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.3,
+                    "companyReviewCount": 716,
+                    "companyReviewLink": "/cmp/Westinghouse-Electric-Company,-LLC/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Mechanical Engineers - 2023 University Graduates",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "f8f4852b2560207c",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "estimatedSalary": {
+                        "formattedRange": "$70.7K - $89.5K a year",
+                        "max": 89517.1,
+                        "min": 70696.164,
+                        "type": "YEARLY"
+                    },
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 568,
+                    "formattedLocation": "Stratford, CA",
+                    "formattedRelativeTime": "1 day ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Stratford",
+                    "jobLocationState": "CA",
+                    "jobTypes": [],
+                    "jobkey": "4d581df36a4e5d66",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=4d581df36a4e5d66&fccid=42e773e039e3c8bf&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Westinghouse Electric Company",
+                        "companyText": "Westinghouse Electric Company jobs in Stratford, CA",
+                        "locationName": "Stratford",
+                        "qnaUrl": "/cmp/Westinghouse-Electric-Company,-LLC/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=4d581df36a4e5d66&jcid=5b7e1a0cce9e724f",
+                        "resultNumber": 5,
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/salaries/Mechanical%20Engineer/Stratford,%20CA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=4d581df36a4e5d66&from=serp-more",
+                        "shortLocationName": "Stratford, CA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Westinghouse Electric Company jobs in Stratford, CA",
+                        "viewAllCompanyUrl": "/q-Westinghouse-Electric-Company-l-Stratford,-CA-jobs.html",
+                        "viewAllLocationUrl": "/l-Stratford,-CA-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Stratford,-CA-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Stratford, CA",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=684a35021dab5310&jcid=5b7e1a0cce9e724f&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "4d581df36a4e5d66",
+                        "link": "/rc/clk?jk=4d581df36a4e5d66&fccid=42e773e039e3c8bf&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677477600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Develop expertise in the design, construction, operation, and decommissioning of nuclear power plants.</li>\n <li>Grow and develop extensive technical expertise in Canada…</li>\n</ul>",
+                    "sourceId": 80976,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Health insurance",
+                                    "suid": "EY33Q"
+                                },
+                                {
+                                    "label": "Dental insurance",
+                                    "suid": "FQJ2X"
+                                },
+                                {
+                                    "label": "Tuition reimbursement",
+                                    "suid": "HJUWZ"
+                                },
+                                {
+                                    "label": "Paid time off",
+                                    "suid": "HW4J4"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                },
+                                {
+                                    "label": "Flexible schedule",
+                                    "suid": "WZ9TD"
+                                },
+                                {
+                                    "label": "Retirement plan",
+                                    "suid": "YQ98H"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mechanical Engineers - 2023 University Graduates",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Westinghouse Electric Company",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=4d581df36a4e5d66&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Halliburton",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/ee53fcb78975e4c0ad32eacf2e1ca039",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/15729693f6f40beef923478d6adf4698"
+                    },
+                    "companyIdEncrypted": "0e4554ac6dcff427",
+                    "companyOverviewLink": "/cmp/Halliburton",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.9,
+                    "companyReviewCount": 6983,
+                    "companyReviewLink": "/cmp/Halliburton/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Associate Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "004ea0a7775a13f2",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "estimatedSalary": {
+                        "formattedRange": "$74K - $93.7K a year",
+                        "max": 93660.1,
+                        "min": 73968.1,
+                        "type": "YEARLY"
+                    },
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 35949,
+                    "formattedLocation": "Houston, TX 77032",
+                    "formattedRelativeTime": "13 days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Houston",
+                    "jobLocationExtras": "IAH - Airport",
+                    "jobLocationPostal": "77032",
+                    "jobLocationState": "TX",
+                    "jobTypes": [],
+                    "jobkey": "1f67b99c9670ad8c",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=1f67b99c9670ad8c&fccid=0e4554ac6dcff427&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Halliburton",
+                        "companyText": "Halliburton jobs in Houston, TX",
+                        "locationName": "Houston",
+                        "qnaUrl": "/cmp/Halliburton/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=1f67b99c9670ad8c&jcid=0e4554ac6dcff427",
+                        "resultNumber": 6,
+                        "salaryLocationName": "Houston, TX",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/77032--TX",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=1f67b99c9670ad8c&from=serp-more",
+                        "shortLocationName": "Houston, TX",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Halliburton jobs in Houston, TX",
+                        "viewAllCompanyUrl": "/q-Halliburton-l-Houston,-TX-jobs.html",
+                        "viewAllLocationUrl": "/l-Houston,-TX-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Houston,-TX-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Houston, TX",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=8f43b8d00c369e1d&jcid=0e4554ac6dcff427&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "1f67b99c9670ad8c",
+                        "link": "/rc/clk?jk=1f67b99c9670ad8c&fccid=0e4554ac6dcff427&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": false,
+                    "normTitle": "Associate Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1676354400000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Under supervision applies functional specifications and uses engineering tools to design hardware for product changes and new development.</li>\n</ul>",
+                    "sourceId": 2824,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Associate Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Halliburton",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=1f67b99c9670ad8c&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "HII",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/2d6c515788d2d4fdf8bebbf67e09776d",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6e76695717fa451d91a375fab4909d89"
+                    },
+                    "companyIdEncrypted": "ba0a0083435d1dd3",
+                    "companyOverviewLink": "/cmp/Hii-9",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.7,
+                    "companyReviewCount": 2574,
+                    "companyReviewLink": "/cmp/Hii-9/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "ENGINEER MECHANICAL 1",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "fe1d3244624e0b32",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 47921,
+                    "formattedLocation": "Newport News, VA",
+                    "formattedRelativeTime": "1 day ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Newport News",
+                    "jobLocationState": "VA",
+                    "jobTypes": [],
+                    "jobkey": "908e08054df86ea1",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=908e08054df86ea1&fccid=9f2bb83bd9bfe2fc&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "HII",
+                        "companyText": "HII jobs in Newport News, VA",
+                        "locationName": "Newport News",
+                        "qnaUrl": "/cmp/Hii-9/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=908e08054df86ea1&jcid=ba0a0083435d1dd3",
+                        "resultNumber": 7,
+                        "salaryLocationName": "Newport News, VA",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/Newport-News--VA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=908e08054df86ea1&from=serp-more",
+                        "shortLocationName": "Newport News, VA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "HII jobs in Newport News, VA",
+                        "viewAllCompanyUrl": "/q-Hii-l-Newport-News,-VA-jobs.html",
+                        "viewAllLocationUrl": "/l-Newport-News,-VA-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Newport-News,-VA-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Newport News, VA",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=341f0eada0926b96&jcid=ba0a0083435d1dd3&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "908e08054df86ea1",
+                        "link": "/rc/clk?jk=908e08054df86ea1&fccid=9f2bb83bd9bfe2fc&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Engineer Mechanical",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677477600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Researches, plans, designs and develops <b>mechanical</b> products and systems such as instruments, controls, robots, engines, machines and <b>mechanical</b>, thermal…</li>\n</ul>",
+                    "sourceId": 68584,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Relocation assistance",
+                                    "suid": "EQH9J"
+                                },
+                                {
+                                    "label": "401(k)",
+                                    "suid": "FVKX2"
+                                },
+                                {
+                                    "label": "Tuition reimbursement",
+                                    "suid": "HJUWZ"
+                                },
+                                {
+                                    "label": "Employee assistance program",
+                                    "suid": "QXB7R"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                },
+                                {
+                                    "label": "Employee discount",
+                                    "suid": "SXFZX"
+                                },
+                                {
+                                    "label": "Life insurance",
+                                    "suid": "Y2WS5"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "ENGINEER MECHANICAL 1",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "HII",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=908e08054df86ea1&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Halliburton",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/ee53fcb78975e4c0ad32eacf2e1ca039",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/15729693f6f40beef923478d6adf4698"
+                    },
+                    "companyIdEncrypted": "0e4554ac6dcff427",
+                    "companyOverviewLink": "/cmp/Halliburton",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.9,
+                    "companyReviewCount": 6983,
+                    "companyReviewLink": "/cmp/Halliburton/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Associate Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "004ea0a7775a13f2",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "estimatedSalary": {
+                        "formattedRange": "$70.8K - $89.7K a year",
+                        "max": 89672.38,
+                        "min": 70818.805,
+                        "type": "YEARLY"
+                    },
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 35949,
+                    "formattedLocation": "Carrollton, TX 75006",
+                    "formattedRelativeTime": "Today",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Carrollton",
+                    "jobLocationPostal": "75006",
+                    "jobLocationState": "TX",
+                    "jobTypes": [],
+                    "jobkey": "a5521b06cce6c712",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=a5521b06cce6c712&fccid=0e4554ac6dcff427&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Halliburton",
+                        "companyText": "Halliburton jobs in Carrollton, TX",
+                        "locationName": "Carrollton",
+                        "qnaUrl": "/cmp/Halliburton/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=a5521b06cce6c712&jcid=0e4554ac6dcff427",
+                        "resultNumber": 8,
+                        "salaryLocationName": "Carrollton, TX",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/75006--TX",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=a5521b06cce6c712&from=serp-more",
+                        "shortLocationName": "Carrollton, TX",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Halliburton jobs in Carrollton, TX",
+                        "viewAllCompanyUrl": "/q-Halliburton-l-Carrollton,-TX-jobs.html",
+                        "viewAllLocationUrl": "/l-Carrollton,-TX-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Carrollton,-TX-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Carrollton, TX",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=8f43b8d00c369e1d&jcid=0e4554ac6dcff427&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "a5521b06cce6c712",
+                        "link": "/rc/clk?jk=a5521b06cce6c712&fccid=0e4554ac6dcff427&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Associate Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677477600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Under supervision applies functional specifications and uses engineering tools to design hardware for product changes and new development.</li>\n</ul>",
+                    "sourceId": 2824,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Associate Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Halliburton",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=a5521b06cce6c712&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Scismic",
+                    "companyBrandingAttributes": {
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6f07b54b3516fee7ec3243f2c0b0a270"
+                    },
+                    "companyIdEncrypted": "6640dd60237f3f3e",
+                    "companyRating": 0,
+                    "companyReviewCount": 0,
+                    "d2iEnabled": false,
+                    "displayTitle": "Mechanical Engineer (Biotech)",
+                    "dradisJob": true,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "5ed83146b452788d",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 90000,
+                        "min": 80000,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 50461,
+                    "formattedLocation": "Brooklyn, NY",
+                    "formattedRelativeTime": "13 days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "hiringMultipleCandidatesModel": {
+                        "hiresNeeded": "ONE",
+                        "hiresNeededExact": "1"
+                    },
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Brooklyn",
+                    "jobLocationState": "NY",
+                    "jobTypes": [],
+                    "jobkey": "0aeb1c2e2b6602b1",
+                    "jsiEnabled": false,
+                    "link": "/company/Scismic/jobs/Mechanical-Engineer-0aeb1c2e2b6602b1?fccid=12d020b984829361&vjs=3",
+                    "locationCount": 1,
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Scismic",
+                        "companyText": "Scismic jobs in Brooklyn, NY",
+                        "locationName": "Brooklyn",
+                        "resultNumber": 9,
+                        "salaryLocationName": "Brooklyn, NY",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/Brooklyn--NY",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=0aeb1c2e2b6602b1&from=serp-more",
+                        "shortLocationName": "Brooklyn, NY",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Scismic jobs in Brooklyn, NY",
+                        "viewAllCompanyUrl": "/q-Scismic-l-Brooklyn,-NY-jobs.html",
+                        "viewAllLocationUrl": "/l-Brooklyn,-NY-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Brooklyn,-NY-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Brooklyn, NY",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=bf459c783ee31e43&jcid=6640dd60237f3f3e&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "0aeb1c2e2b6602b1",
+                        "link": "/company/Scismic/jobs/Mechanical-Engineer-0aeb1c2e2b6602b1?fccid=12d020b984829361&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": false,
+                    "normTitle": "Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": true,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1676440800000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$80,000 - $90,000 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>BS in <b>mechanical</b> engineering, biomedical engineering or related fields with 2-5 years of relevant work experience OR.</li>\n</ul>",
+                    "sourceId": 13002417,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Monday to Friday",
+                                    "suid": "SAP7A"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mechanical Engineer (Biotech)",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Scismic",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=0aeb1c2e2b6602b1&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Mott MacDonald",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/c6be4eff366307c9d5e72e5eac4ff75f",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fdaf11d39a7fa83b908a12772cd61530"
+                    },
+                    "companyIdEncrypted": "edb4bf50a19b70a9",
+                    "companyOverviewLink": "/cmp/Mott-Macdonald",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.9,
+                    "companyReviewCount": 606,
+                    "companyReviewLink": "/cmp/Mott-Macdonald/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Graduate mechanical engineer - 2023",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "b0740aee56dc3fb0",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "estimatedSalary": {
+                        "formattedRange": "$70.6K - $89.4K a year",
+                        "max": 89379.31,
+                        "min": 70587.34,
+                        "type": "YEARLY"
+                    },
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 57606,
+                    "formattedLocation": "New York, NY 10016",
+                    "formattedRelativeTime": "Just posted",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "New York",
+                    "jobLocationExtras": "NoMad",
+                    "jobLocationPostal": "10016",
+                    "jobLocationState": "NY",
+                    "jobTypes": [],
+                    "jobkey": "39283138da1c8823",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=39283138da1c8823&fccid=edb4bf50a19b70a9&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {
+                        "station": "33 St~BTS-NTA",
+                        "stationTransitLines": [
+                            "1"
+                        ],
+                        "transitLines": [
+                            "1",
+                            "6 Express",
+                            "6",
+                            "4"
+                        ]
+                    },
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Mott MacDonald",
+                        "companyText": "Mott MacDonald jobs in New York, NY",
+                        "locationName": "New York",
+                        "qnaUrl": "/cmp/Mott-Macdonald/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=39283138da1c8823&jcid=edb4bf50a19b70a9",
+                        "resultNumber": 10,
+                        "salaryLocationName": "New York, NY",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/New-York--NY",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=39283138da1c8823&from=serp-more",
+                        "shortLocationName": "New York, NY",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "Mott MacDonald jobs in New York, NY",
+                        "viewAllCompanyUrl": "/q-Mott-Macdonald-l-New-York,-NY-jobs.html",
+                        "viewAllLocationUrl": "/l-New-York,-NY-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-New-York,-NY-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in New York, NY",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=6ca8b3dc25a4e2e9&jcid=edb4bf50a19b70a9&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "39283138da1c8823",
+                        "link": "/rc/clk?jk=39283138da1c8823&fccid=edb4bf50a19b70a9&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Graduate Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677564000000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Ability to travel to clients and job sites and be willing to attend meetings after regular business hours – some travel may be required.</li>\n</ul>",
+                    "sourceId": 30838,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Graduate mechanical engineer - 2023",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "Mott MacDonald",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=39283138da1c8823&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "LOCKHEED MARTIN CORPORATION",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/6e0ad8b20e77fbe3efdbf1d1852c6ad2",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/18f608f1112b7488dc95a4003188c8ed"
+                    },
+                    "companyIdEncrypted": "802e2be2e20a49cf",
+                    "companyOverviewLink": "/cmp/Lockheed-Martin",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 4,
+                    "companyReviewCount": 9113,
+                    "companyReviewLink": "/cmp/Lockheed-Martin/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Mechanical Engineer-Entry Level",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "ce4d979bf9c3c5f3",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 4392,
+                    "formattedLocation": "Kings Bay, GA 31547",
+                    "formattedRelativeTime": "5 days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": true,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Kings Bay",
+                    "jobLocationPostal": "31547",
+                    "jobLocationState": "GA",
+                    "jobTypes": [],
+                    "jobkey": "112c1c239f11ceb5",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=112c1c239f11ceb5&fccid=aeb15e43a6800b9d&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "LOCKHEED MARTIN CORPORATION",
+                        "companyText": "LOCKHEED MARTIN CORPORATION jobs in Kings Bay, GA",
+                        "locationName": "Kings Bay",
+                        "qnaUrl": "/cmp/Lockheed-Martin/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=112c1c239f11ceb5&jcid=802e2be2e20a49cf",
+                        "resultNumber": 11,
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/salaries/Mechanical%20Engineer/Kings%20Bay,%20GA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=112c1c239f11ceb5&from=serp-more",
+                        "shortLocationName": "Kings Bay, GA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": true,
+                        "viewAllCompanyLinkText": "LOCKHEED MARTIN CORPORATION jobs in Kings Bay, GA",
+                        "viewAllCompanyUrl": "/jobs?q=Lockheed+Martin+Corporation&l=Kings+Bay,+GA&nc=jasx",
+                        "viewAllLocationUrl": "/l-Kings-Bay,-GA-jobs.html",
+                        "viewAllNormalizedTitleLink": "/q-Mechanical-Engineer-l-Kings-Bay,-GA-jobs.html",
+                        "viewAllNormalizedTitleLinkText": "Mechanical Engineer jobs in Kings Bay, GA",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=e53bc6325e88b11b&jcid=802e2be2e20a49cf&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "112c1c239f11ceb5",
+                        "link": "/rc/clk?jk=112c1c239f11ceb5&fccid=aeb15e43a6800b9d&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Mechanical Engineer Entry Level",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1677045600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Apply <b>mechanical</b> engineering principles to develop design recommendations as required in order to correct/resolve difficult and complex anomalies.</li>\n</ul>",
+                    "sourceId": 13116,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Overtime",
+                                    "suid": "5WFZM"
+                                }
+                            ],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mechanical Engineer-Entry Level",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "LOCKHEED MARTIN CORPORATION",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=112c1c239f11ceb5&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "Moxion Power",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "a95b949b20a21117",
+                    "companyRating": 0,
+                    "companyReviewCount": 0,
+                    "d2iEnabled": false,
+                    "displayTitle": "Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "b88fb2c884bb1475",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 158000,
+                        "min": 134000,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 715693,
+                    "formattedLocation": "Richmond, CA 94804",
+                    "formattedRelativeTime": "30+ days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "Richmond",
+                    "jobLocationExtras": "Marina Bay",
+                    "jobLocationPostal": "94804",
+                    "jobLocationState": "CA",
+                    "jobTypes": [],
+                    "jobkey": "c47cd115a4e33096",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=c47cd115a4e33096&fccid=1e30aa726baf95d1&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {
+                        "station": "Harbour Way S & Ford Point~BTS-NTA",
+                        "stationTransitLines": [
+                            "1"
+                        ],
+                        "transitLines": [
+                            "1"
+                        ]
+                    },
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "Moxion Power",
+                        "companyText": "Moxion Power jobs in Richmond, CA",
+                        "locationName": "Richmond",
+                        "resultNumber": 12,
+                        "salaryLocationName": "Richmond, CA",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/Richmond--CA",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=c47cd115a4e33096&from=serp-more",
+                        "shortLocationName": "Richmond, CA",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": false,
+                        "viewAllCompanyLinkText": "Moxion Power jobs in Richmond, CA",
+                        "viewAllCompanyUrl": "/q-Moxion-Power-l-Richmond,-CA-jobs.html",
+                        "viewAllLocationUrl": "/l-Richmond,-CA-jobs.html",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=16d529d7a254b3f2&jcid=a95b949b20a21117&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "c47cd115a4e33096",
+                        "link": "/rc/clk?jk=c47cd115a4e33096&fccid=1e30aa726baf95d1&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": false,
+                    "normTitle": "Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1656997200000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$134,000 - $158,000 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Using <b>mechanical</b> design analysis (FEA) to optimize your designs.</li>\n <li>Creating beautiful quality products from scratch.</li>\n</ul>",
+                    "sourceId": 25339104,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Health insurance",
+                                    "suid": "EY33Q"
+                                },
+                                {
+                                    "label": "Dental insurance",
+                                    "suid": "FQJ2X"
+                                },
+                                {
+                                    "label": "Paid time off",
+                                    "suid": "HW4J4"
+                                },
+                                {
+                                    "label": "Work from home",
+                                    "suid": "N83EH"
+                                },
+                                {
+                                    "label": "Parental leave",
+                                    "suid": "NPHPU"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                },
+                                {
+                                    "label": "Food provided",
+                                    "suid": "YJ8XR"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Full-time",
+                                    "suid": "CF3CP"
+                                }
+                            ],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [
+                        "Remote OK"
+                    ],
+                    "truncatedCompany": "Moxion Power",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=c47cd115a4e33096&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "EME Consulting Engineering Group",
+                    "companyBrandingAttributes": {},
+                    "companyIdEncrypted": "d7b916e5f6adef06",
+                    "companyRating": 0,
+                    "companyReviewCount": 0,
+                    "d2iEnabled": false,
+                    "displayTitle": "Junior Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "1882a2ff6e4539e5",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "estimatedSalary": {
+                        "formattedRange": "$73.1K - $92.6K a year",
+                        "max": 92561.8,
+                        "min": 73100.72,
+                        "type": "YEARLY"
+                    },
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 262282,
+                    "formattedLocation": "New York, NY 10001",
+                    "formattedRelativeTime": "30+ days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": false,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "New York",
+                    "jobLocationExtras": "Chelsea",
+                    "jobLocationPostal": "10001",
+                    "jobLocationState": "NY",
+                    "jobTypes": [],
+                    "jobkey": "81a803eda603d098",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=81a803eda603d098&fccid=640f863b2e31d02e&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {},
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "EME Consulting Engineering Group",
+                        "companyText": "EME Consulting Engineering Group jobs in New York, NY",
+                        "locationName": "New York",
+                        "resultNumber": 13,
+                        "salaryLocationName": "New York, NY",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/junior-mechanical-engineer/salaries/10001--NY",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=81a803eda603d098&from=serp-more",
+                        "shortLocationName": "New York, NY",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": false,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": false,
+                        "viewAllCompanyLinkText": "EME Consulting Engineering Group jobs in New York, NY",
+                        "viewAllCompanyUrl": "/q-Eme-Consulting-Engineering-Group-l-New-York,-NY-jobs.html",
+                        "viewAllLocationUrl": "/l-New-York,-NY-jobs.html",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=2f445a88db018cb4&jcid=d7b916e5f6adef06&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "81a803eda603d098",
+                        "link": "/rc/clk?jk=81a803eda603d098&fccid=640f863b2e31d02e&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": false,
+                    "normTitle": "Junior Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1597899600000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "",
+                        "salaryTextFormatted": false
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Degreed <b>mechanical</b> <b>engineer</b> with 2+ years experience with building <b>mechanical</b> systems including design, commissioning, and analysis.</li>\n</ul>",
+                    "sourceId": 8089238,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Junior Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "EME Consulting Engineering Group",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=81a803eda603d098&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                },
+                {
+                    "appliedOrGreater": false,
+                    "company": "WSP",
+                    "companyBrandingAttributes": {
+                        "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/5a79d693f21c3a2d4ce1461c2f6abe8d",
+                        "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c00fb96a2a73001a7a4c8bc90a42005c"
+                    },
+                    "companyIdEncrypted": "125e77713a321cdc",
+                    "companyOverviewLink": "/cmp/Wsp",
+                    "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+                    "companyRating": 3.8,
+                    "companyReviewCount": 1306,
+                    "companyReviewLink": "/cmp/Wsp/reviews",
+                    "companyReviewLinkCampaignId": "cmplinktst2",
+                    "d2iEnabled": false,
+                    "displayTitle": "Mechanical Engineer",
+                    "dradisJob": false,
+                    "employerAssistEnabled": false,
+                    "employerResponsive": false,
+                    "encryptedFccompanyId": "1db5047f73fbc332",
+                    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+                    "expired": false,
+                    "extractTrackingUrls": "",
+                    "extractedSalary": {
+                        "max": 108200,
+                        "min": 61700,
+                        "type": "yearly"
+                    },
+                    "fccompanyId": -1,
+                    "featuredCompanyAttributes": {},
+                    "featuredEmployer": false,
+                    "featuredEmployerCandidate": false,
+                    "feedId": 196959,
+                    "formattedLocation": "New York, NY 10119",
+                    "formattedRelativeTime": "7 days ago",
+                    "hideMetaData": false,
+                    "hideSave": false,
+                    "highVolumeHiringModel": {
+                        "highVolumeHiring": false
+                    },
+                    "highlyRatedEmployer": true,
+                    "hiringEventJob": false,
+                    "indeedApplyEnabled": false,
+                    "indeedApplyable": false,
+                    "isJobVisited": false,
+                    "isMobileThirdPartyApplyable": false,
+                    "isNoResumeJob": false,
+                    "isSubsidiaryJob": false,
+                    "jobCardRequirementsModel": {
+                        "additionalRequirementsCount": 0,
+                        "requirementsHeaderShown": false
+                    },
+                    "jobLocationCity": "New York",
+                    "jobLocationExtras": "Garment District",
+                    "jobLocationPostal": "10119",
+                    "jobLocationState": "NY",
+                    "jobTypes": [],
+                    "jobkey": "e0d0f487362ccd74",
+                    "jsiEnabled": false,
+                    "link": "/rc/clk?jk=e0d0f487362ccd74&fccid=125e77713a321cdc&vjs=3",
+                    "locationCount": 1,
+                    "loceJobTagModel": {
+                        "station": "Penn Station~BTS-NTA",
+                        "stationTransitLines": [
+                            "1"
+                        ],
+                        "transitLines": [
+                            "1",
+                            "E",
+                            "C",
+                            "A",
+                            "3",
+                            "2",
+                            "M",
+                            "F",
+                            "D",
+                            "B",
+                            "W",
+                            "R",
+                            "Q",
+                            "N"
+                        ]
+                    },
+                    "mobtk": "1gqcu2bfjis30800",
+                    "moreLinks": {
+                        "companyName": "WSP",
+                        "companyText": "WSP jobs in New York, NY",
+                        "locationName": "New York",
+                        "qnaUrl": "/cmp/Wsp/faq",
+                        "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=e0d0f487362ccd74&jcid=125e77713a321cdc",
+                        "resultNumber": 14,
+                        "salaryLocationName": "New York, NY",
+                        "salaryNoFollowLink": false,
+                        "salaryUrl": "/career/mechanical-engineer/salaries/New-York--NY",
+                        "salaryUrlParams": "?campaignid=serp-more&fromjk=e0d0f487362ccd74&from=serp-more",
+                        "shortLocationName": "New York, NY",
+                        "showAcmeLink": true,
+                        "showAcmeQnaLink": true,
+                        "showViewAllCompanyAndLocationLinks": true,
+                        "showViewAllCompanyLink": true,
+                        "showViewAllLocationLink": true,
+                        "showViewAllNormalizedTitleLink": false,
+                        "viewAllCompanyLinkText": "WSP jobs in New York, NY",
+                        "viewAllCompanyUrl": "/q-Wsp-l-New-York,-NY-jobs.html",
+                        "viewAllLocationUrl": "/l-New-York,-NY-jobs.html",
+                        "visible": false
+                    },
+                    "moreLocUrl": "/jobs?q=mechanical+engineer&jtid=16d529d7a254b3f2&jcid=125e77713a321cdc&filter=0&grp=tcl",
+                    "mouseDownHandlerOption": {
+                        "adId": "",
+                        "advn": "",
+                        "extractTrackingUrls": [],
+                        "from": "vjs",
+                        "jobKey": "e0d0f487362ccd74",
+                        "link": "/rc/clk?jk=e0d0f487362ccd74&fccid=125e77713a321cdc&vjs=3",
+                        "tk": "1gqcu2bfjis30800"
+                    },
+                    "newJob": true,
+                    "normTitle": "Mechanical Engineer",
+                    "openInterviewsInterviewsOnTheSpot": false,
+                    "openInterviewsJob": false,
+                    "openInterviewsOffersOnTheSpot": false,
+                    "openInterviewsPhoneJob": false,
+                    "overrideIndeedApplyText": true,
+                    "preciseLocationModel": {
+                        "obfuscateLocation": false,
+                        "overrideJCMPreciseLocationModel": true
+                    },
+                    "pubDate": 1676959200000,
+                    "redirectToThirdPartySite": false,
+                    "remoteLocation": false,
+                    "remoteWorkModel": {
+                        "inlineText": true,
+                        "type": "REMOTE_HYBRID"
+                    },
+                    "resumeMatch": false,
+                    "salarySnippet": {
+                        "currency": "USD",
+                        "salaryTextFormatted": false,
+                        "source": "EXTRACTION",
+                        "text": "$61,700 - $108,200 a year"
+                    },
+                    "saved": false,
+                    "savedApplication": false,
+                    "screenerQuestionsURL": "",
+                    "showAttainabilityBadge": false,
+                    "showCommutePromo": false,
+                    "showEarlyApply": false,
+                    "showJobType": false,
+                    "showRelativeDate": true,
+                    "showSponsoredLabel": false,
+                    "showStrongerAppliedLabel": false,
+                    "smartFillEnabled": false,
+                    "smbD2iEnabled": false,
+                    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Provides support to technical staff, <b>engineers</b>, and project managers for the design, development, building, testing, and inspecting of <b>mechanical</b> systems on…</li>\n</ul>",
+                    "sourceId": 7409454,
+                    "sponsored": false,
+                    "taxoAttributes": [],
+                    "taxoAttributesDisplayLimit": 5,
+                    "taxoLogAttributes": [],
+                    "taxonomyAttributes": [
+                        {
+                            "attributes": [],
+                            "label": "job-types"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "shifts"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Hybrid remote",
+                                    "suid": "PAXZC"
+                                }
+                            ],
+                            "label": "remote"
+                        },
+                        {
+                            "attributes": [
+                                {
+                                    "label": "Disability insurance",
+                                    "suid": "CFRGS"
+                                },
+                                {
+                                    "label": "Health insurance",
+                                    "suid": "EY33Q"
+                                },
+                                {
+                                    "label": "Dental insurance",
+                                    "suid": "FQJ2X"
+                                },
+                                {
+                                    "label": "Vision insurance",
+                                    "suid": "RZAT2"
+                                }
+                            ],
+                            "label": "benefits"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "job-types-cc"
+                        },
+                        {
+                            "attributes": [],
+                            "label": "schedules"
+                        }
+                    ],
+                    "tier": {
+                        "matchedPreferences": {
+                            "longMatchedPreferences": [],
+                            "stringMatchedPreferences": []
+                        },
+                        "type": "DEFAULT"
+                    },
+                    "title": "Mechanical Engineer",
+                    "translatedAttributes": [],
+                    "translatedCmiJobTags": [],
+                    "truncatedCompany": "WSP",
+                    "urgentlyHiring": false,
+                    "viewJobLink": "/viewjob?viewtype=embedded&jk=e0d0f487362ccd74&from=vjs&tk=1gqcu2bfjis30800&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dmechanical%2Bengineer%26start%3D0%26l%3D",
+                    "vjFeaturedEmployerCandidate": false,
+                    "workplaceInsights": []
+                }
+            ],
+            "searchTimestamp": 1677618916851,
+            "searchUID": "1gqcu2bfjis30800",
+            "shouldMarkClickedJobAsVisited": false,
+            "shouldRunReactClientSide": true,
+            "shouldServerSideRender": true,
+            "shouldShowITAOverFE": false,
+            "shouldShowResponsiveEmployer": true,
+            "shouldUseJCSMouseDownHandler": true,
+            "showDislikeJobButton": true,
+            "showFeaturedCompany": true,
+            "showMobJobSnippet": true,
+            "showModalSaveMenu": false,
+            "showSaveJobButton": true,
+            "showSerpMetadata": false,
+            "showStations": false,
+            "stabilizeHTMLForSEO": false,
+            "tierSummaries": [],
+            "twoLineJobTitle": false,
+            "viewjobFrom": "jasx",
+            "what": "mechanical engineer",
+            "where": ""
+        },
+        "savedJobCount": 0
+    },
+    "proctorGroups": {
+        "jsj_log_time_in_viewport_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A2"
+        },
+        "a11y_newtab_icon_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "mob_jobcards_service_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#F2"
+        },
+        "mosaic_dserp_platform_tog": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A5"
+        },
+        "mosaic_mobserp_platform_tog": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A8"
+        },
+        "mobpreciseloctst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobnpsv2tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobsavejobondevicetst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_app_reskin_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_tog": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_jobcards_bundle_tog": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_serp_i18n_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_spa_jcs_ssr_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "cmi_jp_spa_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobserpvjmultiplecandidatetst": {
+            "group": "vjExactAndSerp",
+            "value": 3,
+            "allocationId": "#C12"
+        },
+        "mobserpvjtaxomatchtst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "longValue": 0
+            }
+        },
+        "mobipiatst": {
+            "group": "group1",
+            "value": 1,
+            "allocationId": "#A7",
+            "payload": {
+                "stringArray": [
+                    "US",
+                    "PR",
+                    "CA"
+                ]
+            }
+        },
+        "mobmapandcommutetimetst": {
+            "group": "control",
+            "value": 0,
+            "allocationId": "#G13"
+        },
+        "mob_nationwide_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_prefmatch_section_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mosaic_mobserp_acme_similar_companies_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#C2"
+        },
+        "jasxipiatst": {
+            "group": "group1",
+            "value": 1,
+            "allocationId": "#A3",
+            "payload": {
+                "stringArray": [
+                    "US",
+                    "PR",
+                    "CA"
+                ]
+            }
+        },
+        "crashtext5tst": {
+            "group": "crashtext5tst5",
+            "value": 5,
+            "allocationId": "#A1"
+        },
+        "crashtext10tst": {
+            "group": "crashtext10tst9",
+            "value": 9,
+            "allocationId": "#A1"
+        },
+        "crashtext25tst": {
+            "group": "crashtext25tst3",
+            "value": 3,
+            "allocationId": "#B1"
+        },
+        "crashtext50tst": {
+            "group": "control",
+            "value": 0,
+            "allocationId": "#A1"
+        },
+        "crashtextiutst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "crashtextsandboxtst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "jasx_rating_aria_translation_tog": {
+            "group": "newAriaLabel",
+            "value": 1,
+            "allocationId": "#B1"
+        },
+        "jcs_crashtext": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "jsj_mobhp_mvpcontentinfeed_0620_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#C1",
+            "payload": {
+                "longValue": 0
+            }
+        },
+        "jsj_mobhp_mvpcontentinfeed_acct_0721_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "longValue": 0
+            }
+        },
+        "jm_compliant_design_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mobevergreentst": {
+            "group": "activeViewJobSerpCopy2",
+            "value": 3,
+            "allocationId": "#C9"
+        },
+        "cmi_d2i_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#F1"
+        },
+        "cmi_jsi_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#E1"
+        },
+        "jcs_big6_tst": {
+            "group": "scheduleCC",
+            "value": 5,
+            "allocationId": "#B18"
+        },
+        "jcs_update_missing_qualification_icon_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "jcs_ihp_badging_tst": {
+            "group": "scheduleInterview",
+            "value": 2,
+            "allocationId": "#A4"
+        },
+        "cmi_jp_aurora_reskin_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_big6_prefmatch_tst": {
+            "group": "pref_match_UI_enabled",
+            "value": 1,
+            "allocationId": "#B4"
+        },
+        "jcs_dislike_loggedin_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A3"
+        },
+        "mob_remote_filter_tst": {
+            "group": "Inactive",
+            "value": -1,
+            "allocationId": "#A3"
+        },
+        "jcs_dislike_autoopen_feedback_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A7"
+        },
+        "jcs_dislikeform_v2_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_hp_job_feed_click_url_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_hide_jd_snippets_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "ads_jcwd_mobserp_organic_click_migration_viewjob_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A5"
+        },
+        "mobtransittst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A17",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "mobtransittst_b": {
+            "group": "station",
+            "value": 1,
+            "allocationId": "#A8",
+            "payload": {
+                "stringArray": [
+                    "mta:BTS-NTA, nearestStation:true",
+                    "mta:CTA, nearestStation:true",
+                    "mta:Metra, nearestStation:true",
+                    "mta:SEPTA, nearestStation:true",
+                    "mta:PATCO, nearestStation:true",
+                    "mta:NJT, nearestStation:true",
+                    "mta:MTAHC, nearestStation:true",
+                    "mta:DART, nearestStation:true",
+                    "mta:Trinity Metro, nearestStation:true",
+                    "mta:DCTA, nearestStation:true",
+                    "mta:DART,Trinity Metro, nearestStation:true",
+                    "mta:LACMTA,nearestStation:true",
+                    "mta:SCRRA/Amtrak,nearestStation:true",
+                    "mta:MARTA, nearestStation:true",
+                    "mta:NYCTA, nearestStation:true",
+                    "mta:CFCRC, nearestStation:true",
+                    "mta:Valley Metro, nearestStation:true",
+                    "mta:CATS, nearestStation:true"
+                ]
+            }
+        },
+        "mobtransittst_c": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A5",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "mobtransittst_d": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A7",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "mobtransittst_e": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A5",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "mobtransittst_full": {
+            "group": "Inactive",
+            "value": -1,
+            "allocationId": "#A5",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "jcs_no_lazy_html_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A3"
+        },
+        "jcs_pay_for_performance_ui_tst": {
+            "group": "grp3",
+            "value": 3,
+            "allocationId": "#A8"
+        },
+        "js_hqm_connect_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "map": {
+                    "REQUIRED_JOB_MATCHES_FOR_PAGE_LOAD_OPT_IN": -1
+                }
+            }
+        },
+        "jcs_big6_attr_priority_display_tst": {
+            "group": "attr_display_priority_enabled",
+            "value": 1,
+            "allocationId": "#A5"
+        },
+        "jcs_job_attribute_filter_priority": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "jcs_urgently_hiring_badge_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A3"
+        },
+        "posted_days_ago_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A5"
+        },
+        "jcs_zip_code_format_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_hvh_signs_of_life_tst": {
+            "group": "grp2",
+            "value": 2,
+            "allocationId": "#A3"
+        },
+        "jcs_remove_new_label": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A5"
+        },
+        "jcs_serp_rollup_tst": {
+            "group": "versionb",
+            "value": 2,
+            "allocationId": "#A4"
+        },
+        "jsj_hp_gatedhomepage_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "map": {
+                    "jobsBeforeGate": 0,
+                    "interactionPattern": "none"
+                }
+            }
+        },
+        "cmi_jp_hide_job_category_tst": {
+            "group": "control",
+            "value": 0,
+            "allocationId": ""
+        },
+        "seg_call_cta_serp_job_card": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "smb_urgent_hire_label": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A6"
+        },
+        "profile_negative_qualifications_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "smb_d2i_ramp_serp_jobcard_label": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#B2"
+        },
+        "cmi_jp_jsfe_new_iabadge_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jsj_hp_matchexplanation_tst": {
+            "group": "control",
+            "value": 0,
+            "allocationId": "#A4"
+        },
+        "acme_single_work_insight_label": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "json": {
+                    "labels": [],
+                    "starOnSerp": true,
+                    "starOnViewJob": true,
+                    "multiLabelVariant": 0,
+                    "useCompanyNameAsLink": false,
+                    "showGlassdoorBranding": false
+                }
+            }
+        },
+        "cmi_jp_jsfe_remove_jobcards_sponsor_label_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_add_requirements_tst": {
+            "group": "active",
+            "value": 1,
+            "allocationId": "#A3"
+        },
+        "salary_mobserp_extracted_salary_ux_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#B3"
+        },
+        "shift_label_tst": {
+            "group": "hide",
+            "value": 3,
+            "allocationId": "#B2"
+        },
+        "mob_jobtitletruncation_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "jsrch_savejobredirect_tst": {
+            "group": "grp1",
+            "value": 1,
+            "allocationId": "#A3"
+        },
+        "ibu_india_job_cards_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "jcs_unified_ia_badge_tst": {
+            "group": "grp1",
+            "value": 1,
+            "allocationId": "#A4"
+        },
+        "ads_jcwd_jpspa_mobserp_organic_click_migration_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "jcs_hvh_signs_of_life_v2_tst": {
+            "group": "grp1",
+            "value": 1,
+            "allocationId": "#A3"
+        },
+        "jsj_hp_saveicon_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "#A1"
+        },
+        "seg_jse_location_nudge": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "mob_pref_search_suggestions_tst": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": ""
+        },
+        "de_de_intl40822_crashtext": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "stringArray": []
+            }
+        },
+        "call_cta_serp_job_card_crashtxt": {
+            "group": "inactive",
+            "value": -1,
+            "allocationId": "",
+            "payload": {
+                "stringArray": []
+            }
+        }
+    },
+    "deploymentGroup": "default",
+    "artifacts": {
+        "hiringEventInfoMap": {},
+        "responsiveEmployerMap": {}
+    },
+    "isApp": false,
+    "isAndroid": false,
+    "shouldRunReactClientSide": true,
+    "countryCode": "US",
+    "language": "en",
+    "isProduction": true,
+    "oneGraphUrl": "https://apis.indeed.com/graphql",
+    "oneGraphApiKey": "4478d7e8947a5d00ef519267aceb40da79a62388a57366b00e5a0c090533c6fd",
+    "ctk": "1gqcu2be12eoh000",
+    "isHorizontalMode": false,
+    "hostId": "jobsearch",
+    "pageId": "serpGlobal"
+}

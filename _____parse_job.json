@@ -1,0 +1,742 @@
+{
+    "accountKey": null,
+    "additionalLinksEnabled": true,
+    "additionalLinksViewModel": {
+        "similarCategoryLinks": [
+            {
+                "surfaceElementLabel": "Marine Engineers & Naval Architects",
+                "surfaceElementUrl": "/q-Marine-Engineers-&-Naval-Architects-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Industrial & Manufacturing Engineers",
+                "surfaceElementUrl": "/q-Industrial-&-Manufacturing-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Environmental Engineers",
+                "surfaceElementUrl": "/q-Environmental-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Chemical Engineers",
+                "surfaceElementUrl": "/q-Chemical-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Electrical Engineers",
+                "surfaceElementUrl": "/q-Electrical-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Petroleum Engineers",
+                "surfaceElementUrl": "/q-Petroleum-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Nuclear Engineers",
+                "surfaceElementUrl": "/q-Nuclear-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Civil Engineers",
+                "surfaceElementUrl": "/q-Civil-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Materials Engineers",
+                "surfaceElementUrl": "/q-Materials-Engineers-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "Aerospace Engineers",
+                "surfaceElementUrl": "/q-Aerospace-Engineers-l-Halsey,-OR-jobs.html"
+            }
+        ],
+        "similarJobTitleLinks": [
+            {
+                "surfaceElementLabel": "engineer",
+                "surfaceElementUrl": "/q-engineer-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "reliability",
+                "surfaceElementUrl": "/q-reliability-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "mechanical engineer",
+                "surfaceElementUrl": "/q-mechanical-engineer-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "maintenance manager",
+                "surfaceElementUrl": "/q-maintenance-manager-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "maintenance engineer",
+                "surfaceElementUrl": "/q-maintenance-engineer-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "reliability manager",
+                "surfaceElementUrl": "/q-reliability-manager-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "quality engineer",
+                "surfaceElementUrl": "/q-quality-engineer-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "maintenance",
+                "surfaceElementUrl": "/q-maintenance-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "process engineer",
+                "surfaceElementUrl": "/q-process-engineer-l-Halsey,-OR-jobs.html"
+            },
+            {
+                "surfaceElementLabel": "test engineer",
+                "surfaceElementUrl": "/q-test-engineer-l-Halsey,-OR-jobs.html"
+            }
+        ]
+    },
+    "apiPaths": {},
+    "apolloCachedResponse": null,
+    "appCommonData": null,
+    "applyButtonSDKEnabled": false,
+    "averageRatingsModel": null,
+    "base64EncodedJson": "eyJjIjp0cnVlLCJlIjp0cnVlLCJnIjoiaHR0cDovL3d3dy5pbmRlZWQuY29tL20vYmFzZWNhbXAvdmlld2pvYj92aWV3dHlwZT1lbWJlZGRlZCZqaz03MGQ4OWY0YmI4YTBhYTMwIiwiaCI6IlJlbGlhYmlsaXR5IEVuZ2luZWVyL1N1cGVydmlzb3IiLCJpIjoiSGFsc2V5LCBPUiA5NzM0OCIsImoiOiJvcmdhbmljIn0",
+    "baseInboxUrl": "https://inbox.indeed.com",
+    "baseUrl": "https://www.indeed.com",
+    "benefitsModel": {
+        "benefits": [
+            {
+                "key": "FVKX2",
+                "label": "401(k)"
+            },
+            {
+                "key": "SENX8",
+                "label": "401(k) matching"
+            },
+            {
+                "key": "FQJ2X",
+                "label": "Dental insurance"
+            },
+            {
+                "key": "CFRGS",
+                "label": "Disability insurance"
+            },
+            {
+                "key": "QXB7R",
+                "label": "Employee assistance program"
+            },
+            {
+                "key": "G85UP",
+                "label": "Flexible spending account"
+            },
+            {
+                "key": "EY33Q",
+                "label": "Health insurance"
+            },
+            {
+                "key": "Y2WS5",
+                "label": "Life insurance"
+            },
+            {
+                "key": "HW4J4",
+                "label": "Paid time off"
+            },
+            {
+                "key": "Z9VRJ",
+                "label": "Prescription drug insurance"
+            },
+            {
+                "key": "RZAT2",
+                "label": "Vision insurance"
+            }
+        ],
+        "benefitsCollapseThreshold": 6
+    },
+    "bulkLazierMosaic": true,
+    "callToInterviewButtonModel": null,
+    "categorizedAttributesModel": null,
+    "chatbotApplyButtonLinkModel": null,
+    "clientsideProctorGroups": {
+        "showSalaryGuide": true,
+        "simpleVJwithJobInfoHeader": false,
+        "callToApplyStickyBelowApplyNow": false,
+        "mob_desktop_serp_tst": true,
+        "simpleVJwithJA": false,
+        "showInterviewCardBelowJobDesc": false,
+        "callToApplyStickySideBySide": false,
+        "simpleVJ": false,
+        "ibu_india_richer_app_download_promo_tst": false,
+        "simpleVJwithJobDetails": false,
+        "oneGraphMigrationTitle": false,
+        "desktopvj_stickyheader_tst": false,
+        "simpleVJwithTabs": false,
+        "callButtonPrimaryApplySecondary": false
+    },
+    "cmiJobCategoryModel": null,
+    "commuteInfoModel": null,
+    "companyAvatarModel": null,
+    "companyFollowFormModel": null,
+    "companyTabModel": null,
+    "contactPersonModel": null,
+    "country": "US",
+    "cssResetProviders": {
+        "mosaic-provider-reportcontent": false,
+        "mosaic-provider-salary-feedback": true,
+        "mosaic-provider-rich-media": false,
+        "js-match-insights-provider": false,
+        "MosaicProviderCallToApplyFeedback": true
+    },
+    "ctk": "1gqcq31u8ki8j800",
+    "dcmModel": {
+        "category": "jobse0",
+        "source": "6927552",
+        "type": "organic"
+    },
+    "desktop": true,
+    "dgToken": "6987EEB4A2C6A193E5C44936188510EB",
+    "dislikeFrom2paneEnabled": true,
+    "downloadAppButtonModel": null,
+    "employerResponsiveCardModel": null,
+    "from": null,
+    "globalnavFooterHTML": "",
+    "globalnavHeaderHTML": "",
+    "highQualityMarketplace": null,
+    "highQualityMarketplaceHiringManager": null,
+    "highQualityMarketplaceHiringManagerEnabled": false,
+    "hiringInsightsModel": {
+        "age": "30+ days ago",
+        "employerLastReviewed": null,
+        "employerResponsiveCardModel": null,
+        "numOfCandidates": "1",
+        "postedToday": false,
+        "recurringHireText": null,
+        "urgentlyHiringModel": null
+    },
+    "indeedApplyButtonContainer": null,
+    "indeedLogoModel": null,
+    "inlineJsErrEnabled": false,
+    "isApp": false,
+    "isApplyTextColorChanges": true,
+    "isApplyTextSizeChanges": true,
+    "isCriOS": false,
+    "isDislikeFormV2Enabled": false,
+    "isSafariForIOS": false,
+    "isSalaryNewDesign": false,
+    "isSyncJobs": false,
+    "jasJobViewPingModel": {
+        "url": "https://jas.indeednps.com/?jk=70d89f4bb8a0aa30&ak=e15924ca91c6e6a9c8"
+    },
+    "jasxInputWhatWhereActive": true,
+    "jobAlertSignInModalModel": null,
+    "jobAlertSignUp": null,
+    "jobCardStyleModel": {
+        "elementSpacingIncreased": false,
+        "fontSizeEnlarged": false,
+        "highContrastIconShown": false,
+        "jobCardShelfApplied": false,
+        "salaryBlack": false,
+        "shouldMarkClickedJobAsVisited": false
+    },
+    "jobInfoWrapperModel": {
+        "jobInfoModel": {
+            "appliedStateBannerModel": null,
+            "commuteInfoModel": null,
+            "expiredJobMetadataModel": null,
+            "hideCmpHeader": false,
+            "isSmbD2iEnabled": false,
+            "jobDebugInfoModel": null,
+            "jobDescriptionSectionModel": {
+                "acmeMicrocontentSurveyUrl": "https://cocos-api.indeed.com",
+                "benefitsSection": null,
+                "jobDetailsSection": {
+                    "contents": {
+                        "Job Type": [
+                            "Full-time"
+                        ]
+                    },
+                    "highlightedAttributesSectionModels": [],
+                    "isJobDetailPreferenceCollectionEnabled": false,
+                    "isJobDetailsShiftPreferenceCollectionEnabled": false,
+                    "isPreferenceMismatchBanIconEnabled": false,
+                    "jobTypes": [
+                        {
+                            "label": "Full-time",
+                            "sentiment": "UNKNOWN",
+                            "suid": "CF3CP"
+                        }
+                    ],
+                    "mobPreferenceMatchVJTst": -1,
+                    "salaryInfoModel": null,
+                    "shiftsAndSchedule": null,
+                    "title": "Job details"
+                },
+                "order": [
+                    "JOB_DETAILS",
+                    "QUALIFICATIONS"
+                ],
+                "qualificationsSectionModel": null,
+                "responsibilitiesSection": null
+            },
+            "jobInfoHeaderModel": {
+                "a11yNewtabIconActive": false,
+                "averageRatingsModel": null,
+                "companyImagesModel": {
+                    "ejiBannerAsBackground": false,
+                    "enhancedJobDescription": false,
+                    "featuredEmployer": false,
+                    "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/0ed4cdf0928c7de7b73c74bde993e217",
+                    "logoAltText": "Cascade Pacific Pulp logo",
+                    "logoImageOverlayLower": false,
+                    "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_logo/f2e9e501ee34ae17078516cf5a59173d",
+                    "showBannerTop": false,
+                    "showEnhancedJobImp": false,
+                    "showIconInTitle": false
+                },
+                "companyName": "Cascade Pacific Pulp",
+                "companyOverviewLink": "https://www.indeed.com/cmp/Cascade-Pacific-Pulp-1?campaignid=mobvjcmp&from=mobviewjob&tk=1gqcq31veki8j800&fromjk=70d89f4bb8a0aa30",
+                "companyReviewLink": "https://www.indeed.com/cmp/Cascade-Pacific-Pulp-1/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1gqcq31veki8j800&fromjk=70d89f4bb8a0aa30&jt=Reliability+Engineer%2FSupervisor",
+                "companyReviewModel": null,
+                "employerActivity": null,
+                "employerResponsiveCardModel": null,
+                "encryptedFccCompanyId": null,
+                "formattedLocation": "Halsey, OR 97348",
+                "hideRating": false,
+                "isDesktopApplyButtonSticky": false,
+                "isSimplifiedHeader": false,
+                "jobNormTitle": null,
+                "jobTitle": "Reliability Engineer/Supervisor",
+                "jobTypes": null,
+                "location": null,
+                "mobileStickyVjHeaderActive": false,
+                "openCompanyLinksInNewTab": false,
+                "parentCompanyName": null,
+                "preciseLocationModel": null,
+                "ratingsModel": null,
+                "recentSearch": null,
+                "remoteWorkModel": null,
+                "salaryCurrency": null,
+                "salaryMax": null,
+                "salaryMin": null,
+                "salaryType": null,
+                "subtitle": "Cascade Pacific Pulp - Halsey, OR 97348",
+                "tagModels": null,
+                "taxonomyAttributes": null,
+                "viewJobDisplay": "DESKTOP_EMBEDDED",
+                "workplaceInsightsModel": null
+            },
+            "jobMetadataHeaderModel": {
+                "jobType": "Full-time"
+            },
+            "jobTagModel": null,
+            "resumeEvaluationResult": null,
+            "sanitizedJobDescription": {
+                "content": "<p>Cascade Pacific Pulp is looking for a <b>Reliability Engineer/Supervisor </b>to join our Maintenance department at our Halsey Pulp Mill! If you have a Mechanical Engineering degree and are looking for new opportunities, we want to talk to you!</p>\n<p><b>Job duties</b>: The <b>Reliability Engineer/Supervisor</b> will provide engineering support for the Maintenance department; determine and document appropriate improvements to mill equipment and/or design and manage repair or replacement; oversee reliability programs for lubricants; manage mobile equipment repairs, assist in mechanical planning and maintenance shut-down projects; and plan, direct, supervise and coordinate work activities of union maintenance employees.</p>\n<p><b>Job related background: </b>Mechanical Engineering degree. Familiarity with computerized maintenance management systems, reliability experience, supervisory experience and/or pulp and paper experience is a plus.</p>\n<p><b>Some of what we offer:</b></p>\n<p>· Competitive Starting Wage DOE</p>\n<p>· Two-weeks of vacation initially*</p>\n<p>· Annual Pay Increases</p>\n<p>· Excellent Medical/Dental/Vision and Prescription Drug Coverage</p>\n<p>· 401k with up to a matching 8% Company Contribution</p>\n<p>· Generous Paid Time Off</p>\n<p>· Company Paid Life Insurance</p>\n<p>· Short and Long-Term Disability</p>\n<p><b>Looking Long-term?</b></p>\n<p>In addition to a generous benefits package, we offer continuous learning opportunities and an additional week of paid vacation every 5 years to a 6-week maximum. (*May be pro-rated in year one)</p>\n<p><b>To Apply:</b> Go to <i>cascadepulp.com</i>, <i>Careers</i> tab, select the position interested in and select <i>Apply </i>and complete the online application and attach a resume<i>.</i> Selected applicants will be asked to test &amp; interview; all offers contingent on successful drug/alcohol screen and background check.</p>\n<p><i>All qualified applicants will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, age, or any other status protected by law.</i></p>\n<p>Job Type: Full-time</p>\n<p>Pay: $80,000.00 - $95,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>401(k) matching</li>\n <li>Dental insurance</li>\n <li>Employee assistance program</li>\n <li>Flexible spending account</li>\n <li>Health insurance</li>\n <li>Life insurance</li>\n <li>Paid time off</li>\n <li>Vision insurance</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n <li>Monday to Friday</li>\n <li>On call</li>\n</ul>\n<p>Work Location: One location</p><br/><ul><li>Health insurance</li></ul>",
+                "contentKind": "HTML"
+            },
+            "screenerRequirementsModel": null,
+            "showExpiredHeader": false,
+            "tagModels": null,
+            "viewJobDisplay": "DESKTOP_EMBEDDED"
+        },
+        "sectionedJobInfoModel": null
+    },
+    "jobKey": "70d89f4bb8a0aa30",
+    "jobLocation": "Halsey, OR 97348",
+    "jobMetadataFooterModel": {
+        "age": "30+ days ago",
+        "indeedApplyAdaNotice": null,
+        "originalJobLink": null,
+        "phoneNumber": null,
+        "saveJobLink": null,
+        "showReportJobAsButton": true,
+        "source": null
+    },
+    "jobSeenData": "tk=1gqcq31veki8j800&context=viewjobrecs",
+    "jobTitle": "Reliability Engineer/Supervisor",
+    "language": "en",
+    "lastVisitTime": 0,
+    "lazyProviders": {
+        "mosaic-provider-reportcontent": "<div class=\"mosaic-reportcontent-wrapper button\"><style data-emotion=\"css 1686x4\">.css-1686x4{box-sizing:border-box;background:none;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;text-align:left;-webkit-text-decoration:none;text-decoration:none;border:none;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;position:relative;margin:0;padding-left:1rem;padding-right:1rem;line-height:1.5;font-family:\"Noto Sans\",\"Helvetica Neue\",\"Helvetica\",\"Arial\",\"Liberation Sans\",\"Roboto\",\"Noto\",sans-serif;font-size:1rem;font-weight:700;border-radius:0.5rem;border-width:1px;border-style:solid;-webkit-transition:border-color 200ms cubic-bezier(0.645, 0.045, 0.355, 1),background-color 200ms cubic-bezier(0.645, 0.045, 0.355, 1),opacity 200ms cubic-bezier(0.645, 0.045, 0.355, 1),box-shadow 200ms cubic-bezier(0.645, 0.045, 0.355, 1),color 200ms cubic-bezier(0.645, 0.045, 0.355, 1);transition:border-color 200ms cubic-bezier(0.645, 0.045, 0.355, 1),background-color 200ms cubic-bezier(0.645, 0.045, 0.355, 1),opacity 200ms cubic-bezier(0.645, 0.045, 0.355, 1),box-shadow 200ms cubic-bezier(0.645, 0.045, 0.355, 1),color 200ms cubic-bezier(0.645, 0.045, 0.355, 1);display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;width:auto;padding-top:0.5625rem;padding-bottom:0.5625rem;color:#2d2d2d;border-color:#e4e2e0;background-color:#e4e2e0;}.css-1686x4::-moz-focus-inner{border:0;}@media (prefers-reduced-motion: reduce){.css-1686x4{-webkit-transition:none;transition:none;}}.css-1686x4:disabled{opacity:0.4;pointer-events:none;}.css-1686x4:focus{outline:none;box-shadow:0 0 0 0.125rem #ffffff,0 0 0 0.1875rem #2557a7;}.css-1686x4:focus:not([data-focus-visible-added]){box-shadow:none;}.css-1686x4:visited{color:#2d2d2d;}.css-1686x4:hover{border-color:#d4d2d0;background-color:#d4d2d0;}.css-1686x4:active{box-shadow:inset 0 0.125rem 0.25rem rgba(45, 45, 45, 0.2),inset 0 0.0625rem 0.1875rem rgba(45, 45, 45, 0.12),inset 0 0 0.125rem rgba(45, 45, 45, 0.2);border-color:#b4b2b1;background-color:#b4b2b1;}</style><button class=\"mosaic-reportcontent-button desktop css-1686x4 e8ju0x51\"><span class=\"mosaic-reportcontent-button-icon\"></span>Report job</button><div class=\"mosaic-reportcontent-content\"></div></div>",
+        "mosaic-provider-salary-feedback": "",
+        "mosaic-provider-rich-media": "",
+        "js-match-insights-provider": "",
+        "MosaicProviderCallToApplyFeedback": ""
+    },
+    "locale": "en_US",
+    "localeData": {
+        "": [
+            null,
+            "Project-Id-Version: \nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2023-02-27 14:58-0600\nPO-Revision-Date: 2022-10-21 16:25+0000\nLast-Translator: Auto Generated <noreply@indeed.com>\nLanguage-Team: English (United States) <https://weblate.corp.indeed.com/projects/indeed/indeedmobile-i18n-content/en_US/>\nLanguage: en_US\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 3.9.1\n"
+        ],
+        "iphone_home_find_jobs\u0004Find Jobs": [
+            null,
+            "Find Jobs"
+        ],
+        "iphone_home_location_caption_capitalized\u0004City, state, or zip code": [
+            null,
+            "City, state, zip code, or \"remote\""
+        ],
+        "mobVJJobDetailsPreferenceMatchShift\u0004Shift & Schedule": [
+            null,
+            "Shift and Schedule"
+        ]
+    },
+    "loggedIn": false,
+    "mobResourceTimingEnabled": false,
+    "mobileGlobalHeader": null,
+    "mobtk": "1gqcq31veki8j800",
+    "mosaicData": null,
+    "oneGraphApiKey": "db7ac28c69eff9413df48909e55558cf4bf371590d8bef3165e4facbb7277a39",
+    "oneGraphApiUrl": "https://apis.indeed.com/graphql/",
+    "originalJobLinkModel": null,
+    "pageId": "viewjob",
+    "parenttk": null,
+    "phoneLinkType": null,
+    "phoneNumberButtonLinkModel": null,
+    "preciseLocationModel": null,
+    "profileBaseUrl": "https://profile.indeed.com",
+    "queryString": null,
+    "recentQueryString": "",
+    "recommendedJobsModel": {
+        "shouldShow": false
+    },
+    "recommendedSearchesModel": {
+        "recommendedSearches": [],
+        "shouldShow": false
+    },
+    "relatedLinks": null,
+    "resumeFooterModel": {
+        "buttonLink": {
+            "applyBtnNewStyle": false,
+            "buttonSize": "md",
+            "buttonType": "primary",
+            "contentHtml": "Upload Your Resume",
+            "dataHref": "/promo/resume?from=bottomResumeCTAviewjob&trk.origin=viewjob",
+            "disclaimer": null,
+            "href": "/promo/resume",
+            "icon": null,
+            "isBlock": false,
+            "isBookmarkIcon": null,
+            "largeScreenSizeText": null,
+            "newTabWarningText": null,
+            "occupationIds": null,
+            "openInNewTab": false,
+            "profileMicrocontentNegativeResponseValue": null,
+            "referrerpolicy": null,
+            "rel": null,
+            "sanitizedHref": null,
+            "sanitizedHtml": null,
+            "sticky": false,
+            "target": null,
+            "thirdPartyQuestionsModalActive": false,
+            "title": null,
+            "uipMosaicProviderEnv": null,
+            "viewJobDisplay": null
+        },
+        "isJanusActive": true,
+        "letEmployersFindText": "Let Employers Find You"
+    },
+    "resumePromoCardModel": null,
+    "rtl": false,
+    "salaryGuideModel": {
+        "acmeMicrocontentEndpoint": "https://cocos-api.indeed.com",
+        "country": "US",
+        "estimatedSalaryModel": null,
+        "formattedLocation": "Halsey, OR",
+        "jobKey": "70d89f4bb8a0aa30",
+        "language": "en"
+    },
+    "salaryInfoModel": {
+        "disclaimerIcon": null,
+        "featureTokens": [],
+        "indeedEstimateText": null,
+        "matchingSalary": false,
+        "salaryEstimationDisclaimer": null,
+        "salaryLabel": null,
+        "salarySource": "EXTRACTION",
+        "salaryText": "$80,000 - $95,000 a year",
+        "salaryTextFormatted": false
+    },
+    "saveJobButtonContainerModel": {
+        "alreadySavedButtonModel": {
+            "actions": [
+                "Saved",
+                "Applied",
+                "Interviewing",
+                "Offered",
+                "Hired"
+            ],
+            "buttonSize": null,
+            "buttonType": null,
+            "contentHtml": "Saved",
+            "href": "/",
+            "iconSize": null
+        },
+        "applyFromComputerLogUrl": "/m/rpc/log/emailmyself?jk=70d89f4bb8a0aa30&mobvjtk=1gqcq31veki8j800&sbt=a866f9c19132517ccbb98657d9aac2c1&ctk=1gqcq31u8ki8j800&acctKey=",
+        "currentJobState": "VISITED",
+        "didYouApplyPromptModel": {
+            "calloutModel": {
+                "actionsList": null,
+                "actionsMap": {
+                    "NO": {
+                        "children": "Not interested",
+                        "className": null,
+                        "href": null,
+                        "target": null
+                    },
+                    "LATER": {
+                        "children": "Maybe later",
+                        "className": null,
+                        "href": null,
+                        "target": null
+                    },
+                    "YES": {
+                        "children": "Yes",
+                        "className": null,
+                        "href": null,
+                        "target": null
+                    }
+                },
+                "caretPosition": null,
+                "children": null,
+                "dismissAriaLabel": "Close",
+                "dismissAttributes": null,
+                "dismissHref": null,
+                "heading": "Did you apply?"
+            },
+            "jobKey": "70d89f4bb8a0aa30",
+            "possibleResponses": {
+                "NO": "NO",
+                "LATER": "LATER",
+                "YES": "YES"
+            },
+            "userCanView": false
+        },
+        "didYouApplyResponseUrl": "/m/rpc/didyouapply?tk=1gqcq31veki8j800&jobKey=70d89f4bb8a0aa30&originPage=viewjob&from=viewjob",
+        "hashedCSRFToken": "a866f9c19132517ccbb98657d9aac2c1",
+        "isAlreadySavedButtonVisible": false,
+        "isDisableJobStatusChange": false,
+        "isLoggedIn": false,
+        "isSaveWithoutLoginEnabled": false,
+        "isSticky": false,
+        "isSyncJobs": false,
+        "mobtk": "1gqcq31veki8j800",
+        "myIndeedLoginLink": "https://secure.indeed.com/account/login?co=US&hl=en_US&continue=http%3A%2F%2Fwww.indeed.com%2Fm%2Fbasecamp%2Fviewjob%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30&from=jsfe-desktopembedded-save-indeedmobile",
+        "myJobsAPIHref": "/rpc/log/myjobs/transition_job_state?client=mobile&cause=statepicker&preserveTimestamp=false&tk=1gqcq31veki8j800&jobKey=70d89f4bb8a0aa30&originPage=viewjob",
+        "myJobsURL": "https://myjobs.indeed.com?co=US&hl=en_US&from=viewjob",
+        "pageId": "viewjob",
+        "passportInterceptModalModel": null,
+        "possibleJobActions": {
+            "SAVED": "save",
+            "APPLIED": "apply",
+            "INTERVIEWING": "interview",
+            "OFFERED": "offer",
+            "HIRED": "hire",
+            "VISITED": "visit",
+            "ARCHIVED": "archive"
+        },
+        "possibleJobStates": {
+            "SAVED": "Saved",
+            "APPLIED": "Applied",
+            "INTERVIEWING": "Interviewing",
+            "OFFERED": "Offered",
+            "HIRED": "Hired",
+            "VISITED": "Visited",
+            "ARCHIVED": "Archived"
+        },
+        "saveButtonModel": {
+            "applyBtnNewStyle": false,
+            "buttonSize": "block",
+            "buttonType": "secondary",
+            "contentHtml": "Save this job",
+            "dataHref": null,
+            "disclaimer": null,
+            "href": "/",
+            "icon": {
+                "iconTitle": "save-icon",
+                "iconType": "favorite-border"
+            },
+            "isBlock": false,
+            "isBookmarkIcon": false,
+            "largeScreenSizeText": null,
+            "newTabWarningText": null,
+            "occupationIds": null,
+            "openInNewTab": false,
+            "profileMicrocontentNegativeResponseValue": null,
+            "referrerpolicy": null,
+            "rel": null,
+            "sanitizedHref": null,
+            "sanitizedHtml": null,
+            "sticky": false,
+            "target": null,
+            "thirdPartyQuestionsModalActive": false,
+            "title": null,
+            "uipMosaicProviderEnv": null,
+            "viewJobDisplay": "DESKTOP_EMBEDDED"
+        },
+        "showSaveJobInlineCallout": true,
+        "uistates": {
+            "INTERVIEWING": "INTERVIEWING",
+            "OFFERED": "OFFERED",
+            "SAVED": "SAVED",
+            "VISITED": "VISITED",
+            "HIRED": "HIRED",
+            "ARCHIVED": "ARCHIVED",
+            "APPLIED": "APPLIED"
+        },
+        "viewJobDisplay": "DESKTOP_EMBEDDED"
+    },
+    "saveJobCalloutModel": {
+        "actionsList": null,
+        "actionsMap": {
+            "createaccount": {
+                "children": "Create account (it's free)",
+                "className": null,
+                "href": "https://secure.indeed.com/account/register?co=US&hl=en_US&continue=http%3A%2F%2Fwww.indeed.com%2Fm%2Fbasecamp%2Fviewjob%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30",
+                "target": "_PARENT"
+            },
+            "signin": {
+                "children": "Sign in",
+                "className": null,
+                "href": "https://secure.indeed.com/account/login?co=US&hl=en_US&continue=http%3A%2F%2Fwww.indeed.com%2Fm%2Fbasecamp%2Fviewjob%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30",
+                "target": "_PARENT"
+            }
+        },
+        "caretPosition": null,
+        "children": "You must sign in to save jobs:",
+        "dismissAriaLabel": "Close",
+        "dismissAttributes": null,
+        "dismissHref": null,
+        "heading": "Save jobs and view them from any computer."
+    },
+    "saveJobFailureModalModel": {
+        "closeAriaLabel": "Close",
+        "closeButtonText": "Close",
+        "message": "Please retry",
+        "signInButtonText": null,
+        "signInHref": null,
+        "title": "Failed to Save Job"
+    },
+    "saveJobLimitExceededModalModel": {
+        "closeAriaLabel": "Close",
+        "closeButtonText": null,
+        "message": "You reached the limit. Please log in to save additional jobs.",
+        "signInButtonText": "Sign in",
+        "signInHref": "https://secure.indeed.com/account/login?co=US&hl=en_US&continue=http%3A%2F%2Fwww.indeed.com%2Fm%2Fbasecamp%2Fviewjob%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30&from=viewjob_savejoblimitmodal",
+        "title": "You've already saved 20 jobs"
+    },
+    "segmentId": "blank_query",
+    "segmentPhoneNumberButtonLinkModel": null,
+    "shareJobButtonContainerModel": {
+        "buttonIconModel": {
+            "color": "blue",
+            "position": null,
+            "size": "md",
+            "title": "Share this job",
+            "type": "/m/images/nativeshare.svg"
+        },
+        "buttonModel": {
+            "buttonSize": null,
+            "buttonType": "secondary",
+            "children": "Share this job",
+            "disabled": false,
+            "href": null,
+            "isActive": false,
+            "isBlock": false,
+            "isResponsive": false,
+            "size": "md"
+        },
+        "fallbackButtonIconModel": {
+            "color": "blue",
+            "position": null,
+            "size": "md",
+            "title": "Copy link",
+            "type": "/m/images/icon-copy.svg"
+        },
+        "shareText": "Check out this job on Indeed:\nCascade Pacific Pulp\nReliability Engineer/Supervisor\nHalsey, OR 97348\nhttps://www.indeed.com/m/viewjob?jk=70d89f4bb8a0aa30&from=native",
+        "shareType": "native",
+        "shareUrl": "https://www.indeed.com/m/viewjob?jk=70d89f4bb8a0aa30&from=native",
+        "showUnderSaveButton": true
+    },
+    "shouldLogResolution": false,
+    "showEmployerResponsiveCard": false,
+    "showGlobalNavContent": false,
+    "showReportInJobButtons": false,
+    "sponsored": false,
+    "staticPrefix": "//d3fw5vlhllyvee.cloudfront.net/m/s/",
+    "stickyType": "ALWAYS",
+    "successfullySignedInModel": null,
+    "thirdPartyQuestionsExperiment": false,
+    "viewJobButtonLinkContainerModel": {
+        "a11yNewtabIconActive": false,
+        "clickCookieName": "RCLK",
+        "clickCookieValue": "jk=70d89f4bb8a0aa30&vjtk=1gqcq31veki8j800&ts=1677614745582&rd=&qd=",
+        "jobKey": "70d89f4bb8a0aa30",
+        "shouldSetClickTrackingCookie": true,
+        "thirdPartyApplyCreateAccountModel": {
+            "accountSignInPassportURL": "https://secure.indeed.com/account/login?hl=en_US&co=US&continue=https%3A%2F%2Fwww.indeed.com%2Fthirdpartysignin%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30%26from%3Djsfe-3pintercept-viewjob%26vjtk%3D1gqcq31veki8j800&from=jsfe-3pintercept-viewjob",
+            "baseSecureUrl": "https://secure.indeed.com",
+            "closeAriaText": "Close button",
+            "contextualSignInPassportURL": "https://secure.indeed.com/account/register?hl=en_US&co=US&continue=https%3A%2F%2Fwww.indeed.com%2Fthirdpartysignin%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30%26from%3Djsfe-3pintercept-viewjob%26vjtk%3D1gqcq31veki8j800&from=jsfe-3pintercept-viewjob&branding=third-party-applies",
+            "continueButtonText": "No thanks, just apply",
+            "createAccountBottomText": "You may also apply directly on the company's website.",
+            "createAccountButtonText": "Create account",
+            "createAccountPassportURL": "https://secure.indeed.com/account/register?hl=en_US&co=US&continue=https%3A%2F%2Fwww.indeed.com%2Fthirdpartysignin%3Fviewtype%3Dembedded%26jk%3D70d89f4bb8a0aa30%26from%3Djsfe-3pintercept-viewjob%26vjtk%3D1gqcq31veki8j800&from=jsfe-3pintercept-viewjob",
+            "createAccountReasonText": "Create an Indeed account before continuing to the company's website.",
+            "fromParam": "jsfe-3pintercept-viewjob",
+            "haveAnAccountText": "Have an account?",
+            "signInText": "Sign in",
+            "titleText": "Before you continue"
+        },
+        "viewJobButtonLinkModel": {
+            "applyBtnNewStyle": true,
+            "buttonSize": "block",
+            "buttonType": "primary",
+            "contentHtml": "Apply on company site",
+            "dataHref": null,
+            "disclaimer": "You must create an Indeed account before continuing to the company website to apply",
+            "href": "https://www.indeed.com/applystart?jk=70d89f4bb8a0aa30&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjqVLaN6ug2AFfbRqc-alV9wsdLqiuaGy5Gw05HfKNzLw&astse=5a7cd68ffc2fbb8e&assa=5691",
+            "icon": null,
+            "isBlock": true,
+            "isBookmarkIcon": null,
+            "largeScreenSizeText": "Apply on company site",
+            "newTabWarningText": "opens in a new tab",
+            "occupationIds": [
+                "A9XAM",
+                "BCR8D",
+                "EAJG6",
+                "HY4VD"
+            ],
+            "openInNewTab": true,
+            "profileMicrocontentNegativeResponseValue": -1,
+            "referrerpolicy": "origin",
+            "rel": "noopener",
+            "sanitizedHref": null,
+            "sanitizedHtml": null,
+            "sticky": false,
+            "target": "_blank",
+            "thirdPartyQuestionsModalActive": false,
+            "title": null,
+            "uipMosaicProviderEnv": "https://micro-content-api.indeed.com/generate-question?pageSrc=viewjob&jobKey=",
+            "viewJobDisplay": null
+        }
+    },
+    "viewJobDisplay": "DESKTOP_EMBEDDED",
+    "viewJobDisplayParam": "dtembd",
+    "viewjobDislikes": false,
+    "whatWhereFormModel": null,
+    "workplaceInsightsModel": null,
+    "zoneProviders": {
+        "aboveViewjobButtons": [],
+        "viewjobModals": [
+            "MosaicProviderCallToApplyFeedback"
+        ],
+        "aboveExtractedJobDescription": [],
+        "rightRail": [],
+        "aboveFullJobDescription": [],
+        "betweenJobDescriptionAndButtons": [],
+        "legacyProvidersViewJob": [
+            "mosaic-provider-reportcontent"
+        ],
+        "ssrVJModals": [],
+        "belowJobDescription": [],
+        "belowFullJobDescription": [],
+        "belowVJButtonsAndRightRail": [],
+        "belowViewjobNav": [],
+        "belowViewjobButtons": [
+            "mosaic-provider-salary-feedback"
+        ]
+    }
+}

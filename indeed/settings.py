@@ -9,7 +9,7 @@ NEWSPIDER_MODULE = 'indeed.spiders'
 ROBOTSTXT_OBEY = False
 
 ## ScrapeOps API Key
-SCRAPEOPS_API_KEY = '**********************' ## Get Free API KEY here: https://scrapeops.io/app/register/main
+SCRAPEOPS_API_KEY = '82d0925d-0a44-44e8-adda-5aaa7ffca4fd' ## Get Free API KEY here: https://scrapeops.io/app/register/main
 
 ## Enable ScrapeOps Proxy
 SCRAPEOPS_PROXY_ENABLED = True
