@@ -6,24 +6,30 @@ from datetime import datetime
 
 
 class IndeedJobSpider(scrapy.Spider):
+
     name = "indeed.com_LM"
+
     custom_settings = {
         'FEEDS': {'data/%(name)s_%(time)s.csv': {'format': 'csv', }}
     }
 
+    job_keys = []
+
     def get_indeed_search_url(self, keyword, location, offset=0):
         parameters = {"q": keyword, "l": location, "filter": 0, "start": offset}
-        url_ = f"https://de.indeed.com/jobs?{urlencode(parameters)}&fromage=1"  # 3day &sort=date"
+        sc_ = '&sc=0bf%3Aexrec%28%29%3B'
+        fromage_ = '&fromage=1'
+        lang_ = '&lang=en'
+        url_ = f"https://de.indeed.com/jobs?{urlencode(parameters)}{sc_}{fromage_}{lang_}"
         return url_
 
     def start_requests(self):
-        keyword_list = ['english']
-        location_list = ['']
-        for keyword in keyword_list:
-            for location in location_list:
-                indeed_jobs_url = self.get_indeed_search_url(keyword, location)
-                yield scrapy.Request(url=indeed_jobs_url, callback=self.parse_search_results,
-                                     meta={'keyword': keyword, 'location': location, 'offset': 0})
+        keyword = 'english'
+        location = ''
+
+        indeed_jobs_url = self.get_indeed_search_url(keyword, location)
+        yield scrapy.Request(url=indeed_jobs_url, callback=self.parse_search_results,
+                             meta={'keyword': keyword, 'location': location, 'offset': 0})
 
     def parse_search_results(self, response):
         location = response.meta['location']
@@ -46,17 +52,26 @@ class IndeedJobSpider(scrapy.Spider):
             #     json.dump(jobs_list, file, indent=4, ensure_ascii=False)
 
             for index, job in enumerate(jobs_list):
-                if job.get('jobkey') is not None:
-                    job_url = 'https://www.indeed.com/m/basecamp/viewjob?viewtype=embedded&jk=' + job.get('jobkey')
-                    yield scrapy.Request(url=job_url,
-                                         callback=self.parse_job,
-                                         meta={
-                                             'keyword': keyword,
-                                             'location': location,
-                                             'page': round(offset / 10) + 1 if offset > 0 else 1,
-                                             'position': index,
-                                             'jobKey': job.get('jobkey'),
-                                         })
+
+                job_key_ = job.get('jobkey')
+
+                if job_key_ is not None:
+                    if job_key_ in self.job_keys:
+                        print(f'\n\t\tLet`s skip! Such a key is already in the list.\n\n')
+                    else:
+                        self.job_keys.append(job_key_)
+                        print(f'\n\t\t!!!!!!!!!!!!!!!!!! Job keys: {self.job_keys}\n\n')
+
+                        job_url = 'https://www.indeed.com/m/basecamp/viewjob?viewtype=embedded&jk=' + job.get('jobkey')
+                        yield scrapy.Request(url=job_url,
+                                             callback=self.parse_job,
+                                             meta={
+                                                 'keyword': keyword,
+                                                 'location': location,
+                                                 'page': round(offset / 10) + 1 if offset > 0 else 1,
+                                                 'position': index,
+                                                 'jobKey': job.get('jobkey'),
+                                             })
                 break
 
             # Paginate Through Jobs Pages
@@ -66,31 +81,33 @@ class IndeedJobSpider(scrapy.Spider):
 
                 s = [str(integer) for integer in script_totalJobCount]
                 a_string = "".join(s)
-                num_results = round(int(a_string)/15)
+                num_results_ = int(a_string)
+                num_results = round(num_results_ / 15) * 10
 
-                print(f'\t-------------->>>>>>>>>>>>>  {num_results}')
+                print(f'\t-------------->>>>>>>>>>>>>  Found: {num_results_} jobs')
 
-                # if num_results > 1000:
-                #     num_results = 50
+                if num_results > 100:
+                    num_results = 100
 
                 for offset in range(10, num_results + 10, 10):
                     url = self.get_indeed_search_url(keyword, location, offset)
-                    print(f'\t\t\t-------------->>>>>>>>>>>>>  {url}')
-                    # yield scrapy.Request(url=url, callback=self.parse_search_results,
-                    #                      meta={'keyword': keyword, 'location': location, 'offset': offset})
-                breakpoint()
+                    yield scrapy.Request(url=url, callback=self.parse_search_results,
+                                         meta={'keyword': keyword, 'location': location, 'offset': offset})
+
 
     def parse_job(self, response):
-        location = response.meta['location']
-        keyword = response.meta['keyword']
-        page = response.meta['page']
-        position = response.meta['position']
+        # location = response.meta['location']
+        # keyword = response.meta['keyword']
+        # page = response.meta['page']
+        # position = response.meta['position']
+        jobKey = response.meta['jobKey']
+
         script_tag = re.findall(r"_initialData=(\{.+?\});", response.text)
         if script_tag is not None:
             json_blob = json.loads(script_tag[0])
 
-            with open(f'_____parse_job.json', 'w', encoding='utf-8') as file:
-                json.dump(json_blob, file, indent=4, ensure_ascii=False)
+            # with open(f'_____parse_job.json', 'w', encoding='utf-8') as file:
+            #     json.dump(json_blob, file, indent=4, ensure_ascii=False)
 
             current_dateTime = datetime.now()
             dev_ = '=== IN DEVELOPING ==='
