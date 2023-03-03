@@ -15,6 +15,15 @@ class IndeedJobSpider(scrapy.Spider):
 
     job_keys = []
 
+    def start_requests(self):
+        keyword = 'english'
+        location = ''
+
+        indeed_jobs_url = self.get_indeed_search_url(keyword, location)
+
+        yield scrapy.Request(url=indeed_jobs_url, callback=self.parse_search_results,
+                             meta={'keyword': keyword, 'location': location, 'offset': 0})
+
     def get_indeed_search_url(self, keyword, location, offset=0):
         parameters = {"q": keyword, "l": location, "filter": 0, "start": offset}
         sc_ = '&sc=0bf%3Aexrec%28%29%3B'
@@ -22,14 +31,6 @@ class IndeedJobSpider(scrapy.Spider):
         lang_ = '&lang=en'
         url_ = f"https://de.indeed.com/jobs?{urlencode(parameters)}{sc_}{fromage_}{lang_}"
         return url_
-
-    def start_requests(self):
-        keyword = 'english'
-        location = ''
-
-        indeed_jobs_url = self.get_indeed_search_url(keyword, location)
-        yield scrapy.Request(url=indeed_jobs_url, callback=self.parse_search_results,
-                             meta={'keyword': keyword, 'location': location, 'offset': 0})
 
     def parse_search_results(self, response):
         location = response.meta['location']
@@ -94,12 +95,8 @@ class IndeedJobSpider(scrapy.Spider):
                     yield scrapy.Request(url=url, callback=self.parse_search_results,
                                          meta={'keyword': keyword, 'location': location, 'offset': offset})
 
-
     def parse_job(self, response):
         # location = response.meta['location']
-        # keyword = response.meta['keyword']
-        # page = response.meta['page']
-        # position = response.meta['position']
         jobKey = response.meta['jobKey']
 
         script_tag = re.findall(r"_initialData=(\{.+?\});", response.text)
@@ -120,19 +117,44 @@ class IndeedJobSpider(scrapy.Spider):
             except:
                 job_type = 'NONE'
 
-            yield {
-                'Job Title': job.get('jobInfoHeaderModel').get('jobTitle'),
-                'Company Name': job.get('jobInfoHeaderModel').get('companyName'),
-                'Location': job.get('jobInfoHeaderModel').get('formattedLocation'),
-                'Job Type': job_type,
-                #'Job Description': job.get('sanitizedJobDescription').get('content') if job.get('sanitizedJobDescription') is not None else '',
-                'Email address': dev_,
-                'Company Website URL': dev_,
-                'Company Logo': job.get('jobInfoHeaderModel').get('companyImagesModel').get('logoUrl'),
-                'Date fetched': current_dateTime,
-                # 'keyword': keyword,
-                # 'page': page,
-                # 'position': position,
-                # 'jobkey': response.meta['jobKey'],
-            }
+            companyName_ = job.get('jobInfoHeaderModel').get('companyName')
 
+            url_ = f"https://de.indeed.com/cmp/{companyName_}"
+
+            yield scrapy.Request(url=url_, callback=self.get_companyInfo,
+                    meta={
+                        'jobKey': jobKey,
+                        'jobTitle': job.get('jobInfoHeaderModel').get('jobTitle'),
+                        'companyName': companyName_,
+                        'location': job.get('jobInfoHeaderModel').get('formattedLocation'),
+                        'jobType': job_type,
+                        #'jobDescription': job.get('sanitizedJobDescription').get('content') if job.get('sanitizedJobDescription') is not None else '',
+                        'email': dev_,
+                        'companyLogo': job.get('jobInfoHeaderModel').get('companyImagesModel').get('logoUrl'),
+                        'dateFetched': current_dateTime
+                    }
+                )
+
+    def get_companyInfo(self, response):
+        c_url = ''
+
+        try:
+            script_tag_ = re.findall(r'"websiteUrl":(.+?),"baseUrl":', response.text)
+            script_tag = str(script_tag_).replace("['", "").replace("']", "").replace("}}", "")
+            json_blob = json.loads(script_tag)
+            c_url = json_blob["url"]
+        except:
+            pass
+
+        yield {
+            'jobkey': response.meta['jobKey'],
+            'Job Title': response.meta['jobTitle'],
+            'Company Name': response.meta['companyName'],
+            'Location': response.meta['location'],
+            'Job Type': response.meta['jobType'],
+            # 'Job Description': response.meta['jobDescription'],
+            'Email address': response.meta['email'],
+            'Company Website URL': c_url,
+            'Company Logo': response.meta['companyLogo'],
+            'Date fetched': response.meta['dateFetched']
+        }
