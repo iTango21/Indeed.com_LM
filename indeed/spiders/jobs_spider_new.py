@@ -87,8 +87,8 @@ class IndeedJobSpider(scrapy.Spider):
 
                 print(f'\t-------------->>>>>>>>>>>>>  Found: {num_results_} jobs')
 
-                if num_results > 100:
-                    num_results = 100
+                if num_results > 10:
+                    num_results = 10
 
                 for offset in range(10, num_results + 10, 10):
                     url = self.get_indeed_search_url(keyword, location, offset)
@@ -128,7 +128,7 @@ class IndeedJobSpider(scrapy.Spider):
                         'companyName': companyName_,
                         'location': job.get('jobInfoHeaderModel').get('formattedLocation'),
                         'jobType': job_type,
-                        #'jobDescription': job.get('sanitizedJobDescription').get('content') if job.get('sanitizedJobDescription') is not None else '',
+                        'jobDescription': job.get('sanitizedJobDescription').get('content') if job.get('sanitizedJobDescription') is not None else '',
                         'email': dev_,
                         'companyLogo': job.get('jobInfoHeaderModel').get('companyImagesModel').get('logoUrl'),
                         'dateFetched': current_dateTime
@@ -152,7 +152,7 @@ class IndeedJobSpider(scrapy.Spider):
             'Company Name': response.meta['companyName'],
             'Location': response.meta['location'],
             'Job Type': response.meta['jobType'],
-            # 'Job Description': response.meta['jobDescription'],
+            'Job Description': response.meta['jobDescription'],
             'Email address': response.meta['email'],
             'Company Website URL': c_url,
             'Company Logo': response.meta['companyLogo'],
