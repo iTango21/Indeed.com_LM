@@ -1,0 +1,273 @@
+[
+    {
+        "adBlob": "-6NYlbfkN0Auw088v_g3iCQsAKrg-1ddR39RF1lm37BeTzwxg85fA3Xb4nDibYPzMK2s9v0np1otp2sj2WzmPORlCUvBOYGF4rcPneyNUlI3rKzEyMfTTYkUnKsWkti8taFwbtyFEGphfbHvPihQA2BL7mZcy9ZS_L14-M3WTAkoTJquBtxV8Eha7k6gaO_xBUoMLWj-66J2314E9ecvgeuvUP9TMYuHZePge3PpOxtTsHLqC54Xl3_z4pMtGYB0X8CS-vL9XmQ9j6LdKHwJJDVTw7qK8sxz1KLyzPmvuswENwZDKKx6-rUBwzNlFGpDj_EhReNn-imHT4_RqQAjEhUyWqoVrkboNejqiP40xMaNs__RQ8DVy-_Ppy4Kohp7XHvPuV3fyos8nVqcwnwMSGOnh_20fPMWvD8R4uOuoxJMVpV9fuJ1Y5Y8UpsF6yFqyEnyWSLBaT5qYWzpMRkcTXnUUkMPYGR3R3P0F5hZeDzn9rkozF7ASGNgHgvaHI-Acxc2PhPdLehX7Mtz7QZ5stHDIVAy4Z2X",
+        "adId": "403808862",
+        "advn": "533825353852664",
+        "appliedOrGreater": false,
+        "company": "Odoo, Inc.",
+        "companyBrandingAttributes": {
+            "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/7be7bd007ff8ff30433bf51527453630",
+            "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ce855ee5bf2cf26ed651f147a4d0615d"
+        },
+        "companyIdEncrypted": "2e24da5244280637",
+        "companyOverviewLink": "/cmp/Odoo-Inc",
+        "companyOverviewLinkCampaignId": "serp-linkcompanyname",
+        "companyRating": 4.4,
+        "companyReviewCount": 117,
+        "companyReviewLink": "/cmp/Odoo-Inc/reviews",
+        "companyReviewLinkCampaignId": "cmplinktst2",
+        "d2iEnabled": false,
+        "displayTitle": "Technical Specialist - Hybrid Job",
+        "dradisJob": true,
+        "employerAssistEnabled": false,
+        "employerResponsive": true,
+        "encryptedFccompanyId": "531cd8eca017ea2a",
+        "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+        "expired": false,
+        "extractTrackingUrls": "",
+        "extractedSalary": {
+            "max": 100000,
+            "min": 60000,
+            "type": "yearly"
+        },
+        "fccompanyId": -1,
+        "featuredCompanyAttributes": {},
+        "featuredEmployer": false,
+        "featuredEmployerCandidate": false,
+        "feedId": 50461,
+        "formattedLocation": "Buffalo, NY 14203",
+        "formattedRelativeTime": "30+ days ago",
+        "hideMetaData": false,
+        "hideSave": false,
+        "highVolumeHiringModel": {
+            "highVolumeHiring": false
+        },
+        "highlyRatedEmployer": true,
+        "hiringEventJob": false,
+        "hiringMultipleCandidatesModel": {
+            "hiresNeeded": "TWO_FOUR",
+            "hiresNeededExact": "3"
+        },
+        "indeedApplyEnabled": true,
+        "indeedApplyResumeType": "required",
+        "indeedApplyable": true,
+        "isJobVisited": false,
+        "isMobileThirdPartyApplyable": false,
+        "isNoResumeJob": false,
+        "isSubsidiaryJob": false,
+        "jobCardRequirementsModel": {
+            "additionalRequirementsCount": 0,
+            "requirementsHeaderShown": false
+        },
+        "jobLocationCity": "Buffalo",
+        "jobLocationExtras": "Central Business District",
+        "jobLocationPostal": "14203",
+        "jobLocationState": "NY",
+        "jobTypes": [],
+        "jobkey": "cb71a709708b8738",
+        "jsiEnabled": false,
+        "link": "/pagead/clk?mo=r&ad=-6NYlbfkN0Auw088v_g3iCQsAKrg-1ddR39RF1lm37BeTzwxg85fA3Xb4nDibYPzMK2s9v0np1otp2sj2WzmPORlCUvBOYGF4rcPneyNUlI3rKzEyMfTTYkUnKsWkti8taFwbtyFEGphfbHvPihQA2BL7mZcy9ZS_L14-M3WTAkoTJquBtxV8Eha7k6gaO_xBUoMLWj-66J2314E9ecvgeuvUP9TMYuHZePge3PpOxtTsHLqC54Xl3_z4pMtGYB0X8CS-vL9XmQ9j6LdKHwJJDVTw7qK8sxz1KLyzPmvuswENwZDKKx6-rUBwzNlFGpDj_EhReNn-imHT4_RqQAjEhUyWqoVrkboNejqiP40xMaNs__RQ8DVy-_Ppy4Kohp7XHvPuV3fyos8nVqcwnwMSGOnh_20fPMWvD8R4uOuoxJMVpV9fuJ1Y5Y8UpsF6yFqyEnyWSLBaT5qYWzpMRkcTXnUUkMPYGR3R3P0F5hZeDzn9rkozF7ASGNgHgvaHI-Acxc2PhPdLehX7Mtz7QZ5stHDIVAy4Z2X&xkcb=SoBi-_M3SMA7eQUUtJ0LbzkdCdPP&p=0&fvj=1&vjs=3",
+        "locationCount": 0,
+        "loceJobTagModel": {
+            "station": "Washington St & Exchange St~BTS-NTA",
+            "stationTransitLines": [
+                "1"
+            ],
+            "transitLines": [
+                "1"
+            ]
+        },
+        "mobtk": "1gqc4d4uqjg91801",
+        "moreLocUrl": "",
+        "mouseDownHandlerOption": {
+            "adId": 403808862,
+            "advn": "533825353852664",
+            "extractTrackingUrls": [],
+            "from": "vjs",
+            "jobKey": "cb71a709708b8738",
+            "link": "/pagead/clk?mo=r&ad=-6NYlbfkN0Auw088v_g3iCQsAKrg-1ddR39RF1lm37BeTzwxg85fA3Xb4nDibYPzMK2s9v0np1otp2sj2WzmPORlCUvBOYGF4rcPneyNUlI3rKzEyMfTTYkUnKsWkti8taFwbtyFEGphfbHvPihQA2BL7mZcy9ZS_L14-M3WTAkoTJquBtxV8Eha7k6gaO_xBUoMLWj-66J2314E9ecvgeuvUP9TMYuHZePge3PpOxtTsHLqC54Xl3_z4pMtGYB0X8CS-vL9XmQ9j6LdKHwJJDVTw7qK8sxz1KLyzPmvuswENwZDKKx6-rUBwzNlFGpDj_EhReNn-imHT4_RqQAjEhUyWqoVrkboNejqiP40xMaNs__RQ8DVy-_Ppy4Kohp7XHvPuV3fyos8nVqcwnwMSGOnh_20fPMWvD8R4uOuoxJMVpV9fuJ1Y5Y8UpsF6yFqyEnyWSLBaT5qYWzpMRkcTXnUUkMPYGR3R3P0F5hZeDzn9rkozF7ASGNgHgvaHI-Acxc2PhPdLehX7Mtz7QZ5stHDIVAy4Z2X&xkcb=SoBi-_M3SMA7eQUUtJ0LbzkdCdPP&p=0&fvj=1&vjs=3",
+            "tk": "1gqc4d4uqjg91801"
+        },
+        "newJob": false,
+        "normTitle": "Technical Specialist",
+        "openInterviewsInterviewsOnTheSpot": false,
+        "openInterviewsJob": false,
+        "openInterviewsOffersOnTheSpot": false,
+        "openInterviewsPhoneJob": false,
+        "overrideIndeedApplyText": true,
+        "preciseLocationModel": {
+            "obfuscateLocation": false,
+            "overrideJCMPreciseLocationModel": true
+        },
+        "pubDate": 1671429600000,
+        "redirectToThirdPartySite": false,
+        "remoteLocation": false,
+        "resumeMatch": false,
+        "salarySnippet": {
+            "currency": "USD",
+            "salaryTextFormatted": false,
+            "source": "EXTRACTION",
+            "text": "$60,000 - $100,000 a year"
+        },
+        "saved": false,
+        "savedApplication": false,
+        "screenerQuestionsURL": "iq://309afb34045a20cc3d8f?v=1",
+        "showAttainabilityBadge": false,
+        "showCommutePromo": false,
+        "showEarlyApply": false,
+        "showJobType": false,
+        "showRelativeDate": true,
+        "showSponsoredLabel": false,
+        "showStrongerAppliedLabel": false,
+        "smartFillEnabled": false,
+        "smbD2iEnabled": false,
+        "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">This is a hybrid 40% / 60% role in Buffalo.</li>\n <li>Odoo ERP system is enterprise resource planning software used company-wide for the management of business processes.</li>\n</ul>",
+        "sourceId": 170314,
+        "sponsored": true,
+        "taxoAttributes": [
+            "Health insurance",
+            "Paid time off",
+            "Dental insurance",
+            "Vision insurance",
+            "401(k)",
+            "401(k) matching",
+            "Employee assistance program"
+        ],
+        "taxoAttributesDisplayLimit": 5,
+        "taxoLogAttributes": [
+            "EY33Q",
+            "HW4J4",
+            "FQJ2X"
+        ],
+        "taxonomyAttributes": [
+            {
+                "attributes": [
+                    {
+                        "label": "Full-time",
+                        "suid": "CF3CP"
+                    }
+                ],
+                "label": "job-types"
+            },
+            {
+                "attributes": [
+                    {
+                        "label": "8 hour shift",
+                        "suid": "5GUGE"
+                    },
+                    {
+                        "label": "Day shift",
+                        "suid": "PMS5Q"
+                    }
+                ],
+                "label": "shifts"
+            },
+            {
+                "attributes": [],
+                "label": "remote"
+            },
+            {
+                "attributes": [
+                    {
+                        "label": "Commuter assistance",
+                        "suid": "6XHWW"
+                    },
+                    {
+                        "label": "Health savings account",
+                        "suid": "7KV6C"
+                    },
+                    {
+                        "label": "Health insurance",
+                        "suid": "EY33Q"
+                    },
+                    {
+                        "label": "Dental insurance",
+                        "suid": "FQJ2X"
+                    },
+                    {
+                        "label": "401(k)",
+                        "suid": "FVKX2"
+                    },
+                    {
+                        "label": "Flexible spending account",
+                        "suid": "G85UP"
+                    },
+                    {
+                        "label": "Paid time off",
+                        "suid": "HW4J4"
+                    },
+                    {
+                        "label": "Parental leave",
+                        "suid": "NPHPU"
+                    },
+                    {
+                        "label": "Employee assistance program",
+                        "suid": "QXB7R"
+                    },
+                    {
+                        "label": "Vision insurance",
+                        "suid": "RZAT2"
+                    },
+                    {
+                        "label": "401(k) matching",
+                        "suid": "SENX8"
+                    },
+                    {
+                        "label": "Flexible schedule",
+                        "suid": "WZ9TD"
+                    },
+                    {
+                        "label": "Life insurance",
+                        "suid": "Y2WS5"
+                    },
+                    {
+                        "label": "Paid sick time",
+                        "suid": "ZFPXV"
+                    }
+                ],
+                "label": "benefits"
+            },
+            {
+                "attributes": [
+                    {
+                        "label": "Full-time",
+                        "suid": "CF3CP"
+                    }
+                ],
+                "label": "job-types-cc"
+            },
+            {
+                "attributes": [
+                    {
+                        "label": "8 hour shift",
+                        "suid": "5GUGE"
+                    },
+                    {
+                        "label": "Day shift",
+                        "suid": "PMS5Q"
+                    },
+                    {
+                        "label": "Monday to Friday",
+                        "suid": "SAP7A"
+                    }
+                ],
+                "label": "schedules"
+            }
+        ],
+        "tier": {
+            "matchedPreferences": {
+                "longMatchedPreferences": [],
+                "stringMatchedPreferences": []
+            },
+            "type": "DEFAULT"
+        },
+        "title": "Technical Specialist - Hybrid Job",
+        "translatedAttributes": [],
+        "translatedCmiJobTags": [],
+        "truncatedCompany": "Odoo, Inc.",
+        "urgentlyHiring": true,
+        "viewJobLink": "/viewjob?viewtype=embedded&jk=cb71a709708b8738&from=vjs&tk=1gqc4d4uqjg91801&advn=533825353852664&adid=403808862&ad=-6NYlbfkN0Auw088v_g3iCQsAKrg-1ddR39RF1lm37BeTzwxg85fA3Xb4nDibYPzMK2s9v0np1otp2sj2WzmPORlCUvBOYGF4rcPneyNUlI3rKzEyMfTTYkUnKsWkti8taFwbtyFEGphfbHvPihQA2BL7mZcy9ZS_L14-M3WTAkoTJquBtxV8Eha7k6gaO_xBUoMLWj-66J2314E9ecvgeuvUP9TMYuHZePge3PpOxtTsHLqC54Xl3_z4pMtGYB0X8CS-vL9XmQ9j6LdKHwJJDVTw7qK8sxz1KLyzPmvuswENwZDKKx6-rUBwzNlFGpDj_EhReNn-imHT4_RqQAjEhUyWqoVrkboNejqiP40xMaNs__RQ8DVy-_Ppy4Kohp7XHvPuV3fyos8nVqcwnwMSGOnh_20fPMWvD8R4uOuoxJMVpV9fuJ1Y5Y8UpsF6yFqyEnyWSLBaT5qYWzpMRkcTXnUUkMPYGR3R3P0F5hZeDzn9rkozF7ASGNgHgvaHI-Acxc2PhPdLehX7Mtz7QZ5stHDIVAy4Z2X&xkcb=SoBi-_M3SMA7eQUUtJ0LbzkdCdPP&continueUrl=%2Fjobs%3Ffilter%3D0%26q%3Dpython%26start%3D0%26l%3DHamburg",
+        "vjFeaturedEmployerCandidate": false,
+        "workplaceInsights": []
+    }
+]
